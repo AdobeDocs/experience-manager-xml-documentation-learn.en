@@ -1,6 +1,6 @@
 ---
-title: Versioning content in XML Documentation
-description: Versioning content in XML Documentation for Adobe Experience Manager
+title: Versioning content in [!DNL XML Documentation]
+description: Versioning content in [!DNL XML Documentation] for Adobe Experience Manager
 exl-id: 766af002-d17b-4d27-b4d1-baaacc4579ca
 ---
 # Versioning Content

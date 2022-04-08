@@ -1,6 +1,6 @@
 ---
-title: Creating content in XML Documentation
-description: Creating content in XML Documentation for Adobe Experience Manager
+title: Creating content in [!DNL XML Documentation]
+description: Creating content in [!DNL XML Documentation] for Adobe Experience Manager
 exl-id: f7cfc5c8-414f-4480-a9c9-b9920975a55d
 ---
 # Creating and Structuring Content

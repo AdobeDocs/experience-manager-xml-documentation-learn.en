@@ -6,11 +6,11 @@ exl-id: b8e3a6d2-ea82-4fdb-bd16-3f4b6594af52
 ---
 # Create global keys
 
-Use case: Organizations should use keys in cases where they have some resuable and common text, like product name or product pitch, that is used in many places but is prone to change. Using keys for such reusable text allows Authors to push an update in multiple places by making the change at a single location i.e. in the key value.
+Organizations should use keys in cases where they have some resuable and common text, like product name or product pitch, that is used in many places but is prone to change. Using keys for such reusable text allows you to push an update in multiple places by making the change at a single location, such as in the key value.
 
-**Step 1**
+## Step 1: Create a global map for storing your keys
 
-Create a global map for storing your keys. Create a map and add the keyref element to it.
+Create a map and add the [!UICONTROL keyref] element to it.
 
 ```
 
@@ -32,11 +32,9 @@ Create a global map for storing your keys. Create a map and add the keyref eleme
 
 ```
 
-Here we have defined two definitions, as shown above, provided a keyref as “AEM” for the “Adobe Experience Manager” text.
+Here you have defined two definitions, as shown above, provided a [!UICONTROL keyref] as _AEM_ for the _Adobe Experience Manager_ text.
 
-**Step 2**
-
-Now add this map to your publication map.
+## Step 2: Add this map to your publication map
 
 ```
 
@@ -52,10 +50,9 @@ Now add this map to your publication map.
 
 ```
 
-**Step 3** 
-Use the keys to refer to any of the variables defined in the global key map.
+## Step 3: Use the keys to refer to the variables defined in the global key map
 
-+ Edit the topic and add the key value using the keyref.
++ Edit the topic and add the key value using the [!UICONTROL keyref].
 + As shown in screenshot, a small window will appear from where keywords can be chosen. This will show when you add the “keyword” element.
 ![Insert Element](assets/insert_element.png)
 ![Key Ref](assets/key_ref.png)

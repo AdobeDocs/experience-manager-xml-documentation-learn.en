@@ -1,6 +1,6 @@
 ---
-title: Working with lists in XML Documentation
-description: Working with lists in XML Documentation for Adobe Experience Manager
+title: Working with lists in [!DNL XML Documentation]
+description: Working with lists in [!DNL XML Documentation] for Adobe Experience Manager
 exl-id: 2fde90f1-cb78-4953-ae2e-1fdc3c7798a7
 ---
 # Working with Lists

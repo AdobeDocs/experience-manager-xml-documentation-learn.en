@@ -1,6 +1,6 @@
 ---
 title: Publishing default output in XML Documentation
-description: Publishing default output in XML Documentation for Adobe Experience Manager
+description: Publishing default output in [!DNL XML Documentation] for Adobe Experience Manager
 exl-id: 97a259dd-4266-4a7b-8677-3fa261714687
 ---
 # Publishing Default Output

@@ -1,6 +1,6 @@
 ---
-title: Setup custom DITA-OT in XML Documentation for Adobe Experience Manager
-description: Setup custom DITA-OT in XML Documentation for Adobe Experience Manager
+title: Setup custom DITA-OT in [!DNL XML Documentation] for Adobe Experience Manager
+description: Learn how to set up custom DITA-OT in [!DNL XML Documentation] for Adobe Experience Manager
 role: Admin
 exl-id: f479c2cf-5b8b-4517-be97-81303468007a
 ---
@@ -11,11 +11,11 @@ The steps to add a custom DITA-OT are documented in the section "Use custom DITA
 On a high level the steps are:
 
 + Get the basic DITA-OT
-    + If you want to obtain copy of out-of-the-box DITA-OT from XML Documentation, download it from path "/etc/fmdita/dita_resources/DITA-OT.zip"
+    + If you want to obtain copy of out-of-the-box DITA-OT from [!DNL XML Documentation], download it from path "/etc/fmdita/dita_resources/DITA-OT.zip"
     + If you want to obtain a different version then you can download from [dita-ot repo](https://www.dita-ot.org/download)
 + Make changes into DITA-OT like [adding new plugin](https://www.dita-ot.org/dev/topics/plugins-installing.html), or customizing existing plugins (refer example in related links section below)
 + Upload DITA-OT.zip received to `/apps/<project-folder>/dita_resources` (create a custom project folder is a recommended approach)
-+ Add DITA Profile through Tools > XML Documentation > DITA Profiles (use the DITA-OT path where the custom DITA-OT is uploaded, refer screenshot below)
++ Add DITA Profile through Tools > [!DNL XML Documentation] > DITA Profiles (use the DITA-OT path where the custom DITA-OT is uploaded, refer screenshot below)
 ![DITA Profiles](assets/dita-profile.png)
 
 >[!MORELIKETHIS]
