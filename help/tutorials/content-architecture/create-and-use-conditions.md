@@ -14,7 +14,6 @@ exl-id: a86007e3-48d1-458b-84a7-b683e113e5b2
 
 * For example, authors can add attributes as version 1.0 and version 2.0 in the content, and use conditions to include version 1.0 for release 1.0 and exclude version 2.0.
 
-
 **Step 1**
 
 Define conditions relevant to the documentation in [!UICONTROL Folder Profiles]: 
