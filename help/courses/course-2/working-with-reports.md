@@ -1,6 +1,6 @@
 ---
 title: Working with Reports
-description: Working with Reports in XML Documentation for Adobe Experience Manager
+description: Working with Reports in [!DNL XML Documentation] for Adobe Experience Manager
 exl-id: 755506a6-c416-4a8c-8359-8db7e63a90a4
 ---
 # Working with Reports
@@ -21,7 +21,7 @@ You can download sample files for the exercise here.
 
     ![ellipses-9.png](images/ellipses-9.png)
  
-2. Select **Upload Assets**.
+2. Select **[!UICONTROL Upload Assets]**.
 
     ![upload-assets.png](images/upload-assets.png)
  
@@ -108,7 +108,7 @@ If images are missing from your files a common cause might be that content has b
 
     ![image-ellipsis.png](images/image-ellipsis.png)   
  
-2. Select **Upload Assets**, and select the missing images.
+2. Select **[!UICONTROL Upload Assets]**, and select the missing images.
 
 3. Select **Upload**.
 
@@ -118,9 +118,9 @@ The missing images have been uploaded. Now, a newly generated AEM Site output wi
 
 If content that is referenced elsewhere (a conref) links to for a file within another folder (for example, one named “reuse.”) and the content is not uploaded, an error must be resolved. For example, you must create a subfolder named “reuse,” and upload the missing file into “reuse.”
 
-### Uploading an asset with the Assets UI
+### Uploading an asset with the [!UICONTROL Assets] UI
 
-In addition to the Upload Assets option, you can upload assets by dragging and dropping into the Assets UI.
+In addition to the [!UICONTROL Upload Assets] option, you can upload assets by dragging and dropping into the Assets UI.
 
 1. In Repository View, select the Ellipsis icon on your reuse folder to open the Options menu.
 
