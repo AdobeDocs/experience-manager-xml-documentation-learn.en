@@ -1,6 +1,6 @@
 ---
-title: Recap of Getting started with XML Documentation
-description: Recap of Getting started with XML Documentation for Adobe Experience Manager
+title: Recap of Getting started with [!DNL XML Documentation]
+description: Recap of Getting started with [!DNL XML Documentation] for Adobe Experience Manager
 exl-id: a1f7cee3-2657-4744-95c4-09d3eadb8492
 ---
 # Recap
