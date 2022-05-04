@@ -21,7 +21,7 @@ You can download sample files for the exercise here.
 
     ![ellipses-9.png](images/ellipses-9.png)
  
-2. Select **Upload Assets**.
+2. Select **[!UICONTROL Upload Assets]**.
 
     ![upload-assets.png](images/upload-assets.png)
  
@@ -108,7 +108,7 @@ If images are missing from your files a common cause might be that content has b
 
     ![image-ellipsis.png](images/image-ellipsis.png)   
  
-2. Select **Upload Assets**, and select the missing images.
+2. Select **[!UICONTROL Upload Assets]**, and select the missing images.
 
 3. Select **Upload**.
 
@@ -120,7 +120,7 @@ If content that is referenced elsewhere (a conref) links to for a file within an
 
 ### Uploading an asset with the Assets UI
 
-In addition to the Upload Assets option, you can upload assets by dragging and dropping into the Assets UI.
+In addition to the [!UICONTROL Upload Assets] option, you can upload assets by dragging and dropping into the Assets UI.
 
 1. In Repository View, select the Ellipsis icon on your reuse folder to open the Options menu.
 

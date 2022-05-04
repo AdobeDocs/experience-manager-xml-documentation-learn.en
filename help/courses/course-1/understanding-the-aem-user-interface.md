@@ -80,7 +80,7 @@ You can return to the XML Editor from any view of the Assets UI.
 
 ### Returning from Card View
 
-1. Select the pencil icon on a topic in the Assets UI.
+1. Select the pencil icon on a topic in the [!UICONTROL Assets] UI.
 
    ![Pencil icon](images/lesson-2/return-card-view.png)
 

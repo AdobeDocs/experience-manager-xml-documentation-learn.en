@@ -17,14 +17,14 @@ You can download the example image file from [here.](assets/working-with-images/
 
    ![Ellipsis icon](images/lesson-4/ellipses.png)
 
-1. Select **Upload Assets**.
+1. Select **[!UICONTROL Upload Assets]**.
 
    ![Upload Assets](images/lesson-4/upload-assets.png)
 
 
 1. Select the image you would like to upload from your local system, and select **Open**.
 
-   The Upload Assets dialog box displays.
+   The [!UICONTROL Upload Assets] dialog box displays.
 1. Select **Upload**.
 
 ## Inserting an image into a topic
