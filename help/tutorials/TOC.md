@@ -12,7 +12,8 @@ breadcrumb-title: [!DNL XML Documentation] Tutorials
   + Release Notes {#release-notes}
     + Cloud Services {#cloud-release-notes}
       + [Deployment Instructions](./release-info/deploy-xml-on-aemaacs.md)
-      + [Current release notes](./release-info/release-notes-2022.3.0.md)
+      + [Current release notes](./release-info/release-notes-2022.4.0.md)
+      + [March release notes](./release-info/release-notes-2022.3.0.md)
       + [February release notes](./release-info/release-notes-2022.2.0.md)
       + [January release notes](./release-info/release-notes-2022.1.0.md)
     + On-prem/Managed Services {#on-prem-release-notes}
@@ -26,5 +27,6 @@ breadcrumb-title: [!DNL XML Documentation] Tutorials
 + Translation {#translation}
   + [Exclude paragraphs from translation](./translation/exclude-paragraphs-from-translation.md)
 + Web Editor {#web-editor}
+  + [Publish a PDF output](./web-editor/native-pdf-web-editor.md) 
   + [Configure additional special characters](./web-editor/configure-additional-special-characters.md) 
 + Versioning {#versioning}

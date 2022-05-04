@@ -5,7 +5,7 @@ exl-id: 885edbb5-dfe4-4bdc-bb66-0df64addb094
 ---
 # Latest release of [!DNL XML Documentation] for Adobe Experience Manager as a Cloud Service 
 
-## Upgrade to the latest release
+## Upgrade to the March release
 
 Upgrade your current [!DNL XML Documentation] for Adobe Experience Manager as a Cloud Service (later referred as *[!DNL XML Documentation] for AEMaaCS*) setup by performing the following steps:
 1. Check out the Cloud Services' Git code and switch to the branch configured in the Cloud Services pipeline corresponding to the environment you want to upgrade.
@@ -28,7 +28,7 @@ This section lists the compatibility matrix for the software applications suppor
 
 | [!DNL XML Documentation] Cloud Release | Oxygen Connector Windows | Oxygen Connector Mac | 
 | --- | --- | --- |
-| 2022.2.0 | 2.4.0 | 2.4.0 | 
+| 2022.3.0 | 2.4.0 | 2.4.0 | 
 |  |  |  |  
 
 *Baseline and conditions created in AEM are supported in FMPS releases starting from 2020.2.
