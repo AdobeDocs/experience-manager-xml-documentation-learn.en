@@ -1,20 +1,20 @@
 ---
-title: Release Notes | XML Documentation for Adobe Experience Manager as a Cloud Service, January 2022 release
-description: January release of XML Documentation for Adobe Experience Manager as a Cloud Service
+title: Release Notes for [!DNL XML Documentation], January 2022 release
+description: January release of [!DNL XML Documentation] for Adobe Experience Manager as a Cloud Service
 exl-id: b2da77fa-f17c-440b-be59-acaafcd9a57c
 ---
-# January release of XML Documentation for Adobe Experience Manager as a Cloud Service (AEMaaCS) 
+# January release of [!DNL XML Documentation] for Adobe Experience Manager as a Cloud Service (AEMaaCS) 
 
 ## Upgrade to the January release
 
-Upgrade your current XML Documentation for Adobe Experience Manager as a Cloud Service (later referred as XML Documentation for AEMaaCS) setup by performing the following steps:
+Upgrade your current [!DNL XML Documentation] for Adobe Experience Manager as a Cloud Service (later referred as [!DNL XML Documentation] for AEMaaCS) setup by performing the following steps:
 1. Check out the Cloud Services' Git code and switch to the branch configured in the Cloud Services pipeline corresponding to the environment you want to upgrade.
 2. Update `<dox.version>` property in `/dox/dox.installer/pom.xml` file of your Cloud Services Git code to 2022.1.78.
-3. Commit the changes and run the Cloud Services pipeline to upgrade to the January release of XML Documentation for AEMaaCS.
+3. Commit the changes and run the Cloud Services pipeline to upgrade to the January release of [!DNL XML Documentation] for AEMaaCS.
 
 ## Compatibility matrix
 
-This section lists the compatibility matrix for the software applications supported by XML Documentation for AEMaaCS January 2022 release. 
+This section lists the compatibility matrix for the software applications supported by [!DNL XML Documentation] for AEMaaCS January 2022 release. 
 
 ### FrameMaker and FrameMaker Publishing Server
 
@@ -26,7 +26,7 @@ This section lists the compatibility matrix for the software applications suppor
 
 ### Oxygen Connector
 
-| XML Documentation Cloud Release | Oxygen Connector Windows | Oxygen Connector Mac | Edit in Oxygen Windows | Edit in Oxygen Mac |
+| [!DNL XML Documentation] Cloud Release | Oxygen Connector Windows | Oxygen Connector Mac | Edit in Oxygen Windows | Edit in Oxygen Mac |
 | --- | --- | --- | --- | --- |
 | 2022.1.0 | 2.4.0 | 2.4.0 | 2.2 | 2.2 |
 |  |  |  |  |  |
@@ -77,7 +77,7 @@ There are a lot of enhancements and new features that are introduced in the Web 
 Now you can author and publish your documents in FrameMaker. FrameMaker ships with an out-of-the-box connector to Adobe Experience Manager. In FrameMaker you get an easy-to-use interface that allows you to maintain versions of your documents in a distributed and collaborative environment. 
 
 Once you have created your content, FrameMaker allows you to publish your documents in different formats - PDF, HTML5, EPUB, and DITA. You can also perform the various file management operations like checkout, checkout with dependents, check-in, refresh, and so on. 
-To author with FrameMaker  in XML Documentation for AEMaaCS use FrameMaker version 2020.4 and above.
+To author with FrameMaker  in [!DNL XML Documentation] for AEMaaCS use FrameMaker version 2020.4 and above.
 
 ### New translation dashboard
 
@@ -115,7 +115,7 @@ The following improvements can now be seen while working with files in AEM Asset
 
 ### New report export feature
 
-Reports are very useful in identifying the health of your content. XML Documentation for AEMaaCS provides various reports to take control of your content. Now, you can not only view the reports, but also export the report data in a CSV file to view and share with your larger team. Report data can give you a quick glance of any broken links or missing images.
+Reports are very useful in identifying the health of your content. [!DNL XML Documentation] for AEMaaCS provides various reports to take control of your content. Now, you can not only view the reports, but also export the report data in a CSV file to view and share with your larger team. Report data can give you a quick glance of any broken links or missing images.
 
 ![Report export](assets/export-report.png)
 
@@ -235,7 +235,7 @@ The bugs fixed in various areas are listed below:
 
 ## Known issues
 
-Adobe has identified the following known issues for XML Documentation for AEMaaCS January 2022 release. 
+Adobe has identified the following known issues for [!DNL XML Documentation] for AEMaaCS January 2022 release. 
 
 
 ### Known issues with workaround
@@ -256,6 +256,6 @@ Use the given workaround for the following known issues:
 
 ### Other known issues
 
-* If Oxygen is connected with XML Documentation solution using web authentication, then logout fails.
+* If Oxygen is connected with [!DNL XML Documentation] solution using web authentication, then logout fails.
 * Review tasks cannot be reassigned to the users.
 * Issues are present in the Map collection UI like the text is distorted and **Select All** functionality is not working correctly.

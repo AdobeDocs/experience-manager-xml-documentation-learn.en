@@ -1,6 +1,6 @@
-# XML Documentation for Adobe Experience Manager (or AEM DoX)
+# [!DNL XML Documentation] for Adobe Experience Manager (or AEM DoX)
 
-This is the repository for customer enablement content for XML Documentation for Adobe Experience Manager (aka AEM DoX) - tutorials, courses, videos and troubleshooting articles.
+This is the repository for customer enablement content for [!DNL XML Documentation] for Adobe Experience Manager (aka AEM DoX) - tutorials, courses, videos and troubleshooting articles.
 
 Your contributions to the documentation are welcome. Please see the following resources:
 
