@@ -1,7 +1,7 @@
 ---
-user-guide-title: Tutorials for [!DNL XML Documentation] for AEM
-user-guide-description: Read our collection of tutorials for [!DNL XML Documentation] for Adobe Experience Manager.
-breadcrumb-title: [!DNL XML Documentation] Tutorials
+user-guide-title: Tutorials for XML Documentation for AEM
+user-guide-description: Read our collection of tutorials for XML Documentation for Adobe Experience Manager.
+breadcrumb-title: XML Documentation Tutorials
 ---
   
 # Tutorials for [!DNL XML Documentation] for Experience Manager {#tutorials}

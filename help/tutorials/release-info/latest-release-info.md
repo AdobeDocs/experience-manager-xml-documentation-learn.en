@@ -1,11 +1,11 @@
 ---
-title: [!DNL XML Documentation] releases
-description: Latest [!DNL XML Documentation] releases and pre-requisite AEM versions
+title: XML Documentation releases
+description: Latest XML Documentation releases and pre-requisite AEM versions
 exl-id: 780697a9-bdc6-40c2-b258-64639fe30f88
 ---
 # [!DNL XML Documentation] Releases
 
-[!DNL [!DNL XML Documentation]] for Adobe Experience Manager is an application deployed onto AEM. It is a powerful, enterprise-grade component content management solution (CCMS) which enables native DITA support in Adobe Experience Manager, empowering AEM to handle DITA-based content creation and delivery. 
+[!DNL XML Documentation] for Adobe Experience Manager is an application deployed onto AEM. It is a powerful, enterprise-grade component content management solution (CCMS) which enables native DITA support in Adobe Experience Manager, empowering AEM to handle DITA-based content creation and delivery. 
 
 ## UUID vs Non-UUID Explained
 

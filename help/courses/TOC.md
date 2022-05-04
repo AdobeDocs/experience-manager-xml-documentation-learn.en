@@ -1,7 +1,7 @@
 ---
-user-guide-title: [!DNL XML Documentation] for Adobe Experience Manager Videos
-user-guide-description: A collection of videos for [!DNL XML Documentation] for Adobe Experience Manager.
-breadcrumb-title: [!DNL XML Documentation] Videos
+user-guide-title: XML Documentation for Adobe Experience Manager Videos
+user-guide-description: A collection of videos for XML Documentation for Adobe Experience Manager.
+breadcrumb-title: XML Documentation Videos
 ---
   
 # [!DNL XML Documentation] for Experience Manager {#videos}
