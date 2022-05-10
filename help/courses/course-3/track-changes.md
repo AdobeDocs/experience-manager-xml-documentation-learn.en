@@ -1,8 +1,8 @@
 ---
 title: Track changes
 description: Tracking changes in AEM Guides
+exl-id: 57779920-b3b4-44be-a1fb-89ea7c89eef7
 ---
-
 # Track Changes
 
 You can keep track of all updates made on a document by enabling the Track Changes mode. This mode enables you and your team to capture all insertions and deletions during the document review process.

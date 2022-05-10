@@ -1,8 +1,8 @@
 ---
 title: Training Series Conclusion
 description: Overview and Recap of training AEM Guides
+exl-id: 29fe5e78-8787-4f09-a969-60f68e376976
 ---
-
 # Review
 
 >[!VIDEO](https://video.tv.adobe.com/v/342771)

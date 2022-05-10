@@ -1,6 +1,7 @@
 ---
-title: Adobe Experience Manager Guides Editor Course 3  
-description: Advanced User Guide to AEM Guides Web Editor 
+title: Adobe Experience Manager Guides Editor Course 3
+description: Advanced User Guide to AEM Guides Web Editor
+exl-id: f73a11ae-07e4-42c6-a803-7bdffe08de6d
 ---
 # Course Overview
 

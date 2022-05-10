@@ -1,8 +1,8 @@
 ---
 title: Conditions
 description: Working with conditons in AEM Guids
+exl-id: 2cb670d9-1a22-47c6-8409-52d1d526010a
 ---
-
 # Conditions
 
 In DITA, conditions are often driven through attributes such as Product, Platform, and Audience. These can also have specific values assigned to them. Users can control all of this through Folder Profiles.

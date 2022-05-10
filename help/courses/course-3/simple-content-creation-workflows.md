@@ -1,8 +1,8 @@
 ---
 title: Simple content creation workflows
 description: Creating content in AEM Guides
+exl-id: e4b8e512-0688-44f7-b981-78af33b57b08
 ---
-
 # Simple Content Creation Workflows
 
 The AEM Guides Editor has multiple shortcuts that simplify the content creation workflow. These shortcuts allow users to quickly add and modify images, work with multiple topics at once, correct errors, download topic PDFs, and work with versions and labels.
