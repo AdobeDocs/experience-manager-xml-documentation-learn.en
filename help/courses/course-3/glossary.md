@@ -7,7 +7,7 @@ description: Using the Glossary panel in AEM Guides
 
 The Glossary panel allows a map to be parsed. You can create a Glossary topic file and include it in a common Glossary map. This map can then be added to other maps. Using the Glossary makes it easier to consistently phrase information and provide better clarity to the reader.
 
-Sample files that you may opt to use for this lesson are provided in the file _glossary.zip_.
+Sample files that you may opt to use for this lesson are provided in the file [glossary.zip](assets/glossary.zip).
 
 >[!VIDEO](https://video.tv.adobe.com/v/342765)
 

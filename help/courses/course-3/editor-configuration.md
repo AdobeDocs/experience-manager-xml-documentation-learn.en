@@ -7,7 +7,7 @@ description: Configuring the editor for AEM Guides
 
 If you work in a restrictive environment, you can choose which features your authors are able to see by customizing the Editor Configuration within a specific Folder Profile. Applying this Folder Profile can change the look and feel of the Editor itself, the CSS Templates, the Snippets available, and the Content Version Labels.
 
-Sample files that you may opt to use for this lesson are provided in the file _xmleditorconfiguration.zip_.
+Sample files that you may opt to use for this lesson are provided in the file [xmleditorconfiguration.zip](assets/xmleditorconfiguration.zip).
 
 >[!VIDEO](https://video.tv.adobe.com/v/342762)
 

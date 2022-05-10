@@ -7,7 +7,7 @@ description: Keys allow you to include variable information to when working with
 
 Different sets of materials may contain similar information that needs to be customized in select places. Keys allow you to include variable information to when working with DITA.
 
-Sample files that you may opt to use for this lesson are provided in the file _keys.zip_.
+Sample files that you may opt to use for this lesson are provided in the file [keys.zip](assets/keys.zip).
 
 >[!VIDEO](https://video.tv.adobe.com/v/342756)
 

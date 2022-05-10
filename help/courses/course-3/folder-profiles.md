@@ -7,7 +7,7 @@ description: Creations and Use of Folder Profiles for AEM Guides
 
 AEM provides quick access to configuration tools. By customizing Folder Profiles, different departments or products can have unique templates, authoring environments, conditional attribute profiles, Snippets, or even Web Editor configurations. 
 
-Sample files that you may opt to use for this lesson are provided in the file _folderprofiles.zip_.
+Sample files that you may opt to use for this lesson are provided in the file [folderprofiles.zip](assets/folderprofiles.zip).
 
 >[!VIDEO](https://video.tv.adobe.com/v/342758)
 
