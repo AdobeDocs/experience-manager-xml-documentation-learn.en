@@ -1,8 +1,8 @@
 ---
 title: Glossary
 description: Using the Glossary panel in AEM Guides
+exl-id: 509880b1-852f-44f0-b4a9-09fee8bcb954
 ---
-
 # Glossary
 
 The Glossary panel allows a map to be parsed. You can create a Glossary topic file and include it in a common Glossary map. This map can then be added to other maps. Using the Glossary makes it easier to consistently phrase information and provide better clarity to the reader.
@@ -78,5 +78,3 @@ Use the Hotspot tool to create an entire collection of glossary entries from a s
 6. When finished, click [!UICONTROL **Convert**].
 
 The Glossary panel now displays all updated topics and also topics with errors.
-
-

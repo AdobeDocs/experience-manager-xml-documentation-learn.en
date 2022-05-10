@@ -1,8 +1,8 @@
 ---
 title: XML Editor Configuration
 description: Configuring the editor for AEM Guides
+exl-id: 437d9598-4afc-431f-81bd-6762e22656b7
 ---
-
 # XML Editor Configuration
 
 If you work in a restrictive environment, you can choose which features your authors are able to see by customizing the Editor Configuration within a specific Folder Profile. Applying this Folder Profile can change the look and feel of the Editor itself, the CSS Templates, the Snippets available, and the Content Version Labels.

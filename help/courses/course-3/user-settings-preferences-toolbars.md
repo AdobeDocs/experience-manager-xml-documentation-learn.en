@@ -1,8 +1,8 @@
 ---
 title: User Preferences, Editor Settings and Editor Toolbars
 description: Changing user preferences and editor settings in AEM Guides
+exl-id: 8cb099e4-d985-4eeb-b1a5-0e372b04d218
 ---
-
 # User Preferences, Editor Settings, and Editor Toolbars
 
 The Editor has a highly configurable interface. The mix of User Preferences, Editor Settings, and Folder Profiles means you can customize nearly every aspect to your specific work environment.

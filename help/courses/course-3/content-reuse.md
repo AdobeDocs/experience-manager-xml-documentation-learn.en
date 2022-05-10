@@ -1,8 +1,8 @@
 ---
 title: Content Reuse
 description: Recurring use of features in AEM Guides
+exl-id: 453c5a09-0bcf-4760-87fc-df3ea4a3a30a
 ---
-
 # Content Reuse
 
 One of the main features of DITA is the ability to reuse content. It allows reuse of  content from small phrases up to entire topics or maps.  However, for content to be effectively reused, it must be well managed. Ensure that you have an effective Content Strategy when working with reusable information.
@@ -91,4 +91,3 @@ The dlentry you just created is a reusable element. Therefore, it requires an ID
 5. Save or version the topic so the change reflects in the Repository.
 
 The ID and value have been assigned to the element.
-

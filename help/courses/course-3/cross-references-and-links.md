@@ -1,8 +1,8 @@
 ---
 title: Cross-references and Links
 description: Creating cross-references and links in AEM Guides
+exl-id: bee7d50f-cbdd-4ac8-b15b-101febc4ae80
 ---
-
 # Cross-references and Links
 
 The XML Editor and DITA provide a powerful way to link between topics. It is important to effectively manage your Content References, and that includes working with unique ID values.

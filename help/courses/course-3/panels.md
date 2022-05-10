@@ -1,8 +1,8 @@
 ---
 title: Panels
 description: Using Panels in AEM Guides
+exl-id: 24ecfc93-3540-4efa-ae85-afb346454b7f
 ---
-
 # Panels
 
 The AEM Guides Web Editor is divided into multiple sections including a main toolbar, a secondary toolbar, a left panel, a content editing area, and a right panel.
@@ -266,8 +266,4 @@ The Review Task is created.
 
 The ability to track changes give you a great deal of control over what changes are retained in one version of a topic to the next. You can use the right panel to manage tracked changes.
 
-Refer to the lesson titled [Track Changes](./track-changes.md) in this course for more information on change tracking functionality. 
-
-
-
-
+Refer to the lesson titled [Track Changes](./track-changes.md) in this course for more information on change tracking functionality.
