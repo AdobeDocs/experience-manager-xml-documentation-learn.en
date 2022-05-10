@@ -81,7 +81,7 @@ You can choose from Light or Dark themes for the editor. Using the Light theme, 
 
 1. Click the [!UICONTROL **User Preferences**] icon on the top toolbar.
 
-    ![User Preferences](images\reuse\user-prefs-icon.png)
+    ![User Preferences](images/reuse/user-prefs-icon.png)
 
 2. In the User Preferences dialog, click the [!UICONTROL **Theme**] dropdown.
 
@@ -99,7 +99,7 @@ You can update the Base Path so that the Repository View shows you the content f
 
 1. Click the [!UICONTROL **User Preferences**] icon on the top toolbar.
 
-    ![User Preferences](images\reuse\user-prefs-icon.png)
+    ![User Preferences](images/reuse/user-prefs-icon.png)
 
 2. In the User Preferences dialog, click the [!UICONTROL **Folder**] icon next to the Base Path.
 
@@ -117,7 +117,7 @@ The Global Profile is a system default. Administrators can create additional Fol
 
 1. Click the [!UICONTROL **User Preferences**] icon on the top toolbar.
 
-    ![User Preferences](images\reuse\user-prefs-icon.png)
+    ![User Preferences](images/reuse/user-prefs-icon.png)
 
 2. In the User Preferences dialog, click the [!UICONTROL **Folder Profiles**] dropdown.
 
