@@ -43,7 +43,7 @@ The Glossary panel automatically updates.
 
 2. Select the map that has been preconfigured to work with the glossary. 
 
-    `![Pre-config Map Icon](images\lesson-10\preconfig-map.png)
+    ![Pre-config Map Icon](images\lesson-10\preconfig-map.png)
 
 3. Choose the [!UICONTROL **Map View**].
 
