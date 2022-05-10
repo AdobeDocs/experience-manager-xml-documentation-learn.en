@@ -6,7 +6,7 @@ description: Advanced User Guide to AEM Guides Web Editor
 
 >[!VIDEO](https://video.tv.adobe.com/v/342759)
 
-In this course, you will learn to do work with the following:
+In this course, you will learn to work with the following:
 
 - [User Preferences, Editor Settings, and Editor Toolbars](user-settings-preferences-toolbars.md)
 - [Folder Profiles](folder-profiles.md)

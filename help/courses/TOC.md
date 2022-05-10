@@ -7,7 +7,7 @@ breadcrumb-title: XML Documentation Videos
 # [!DNL XML Documentation] for Experience Manager {#videos}
 
 + [[!DNL XML Documentation] for AEM](overview.md)
-+ Get started with [!DNL XML Documentation] {#getting-started}
++ Getting started with [!DNL XML Documentation] {#getting-started}
   + [Course overview](./course-1/overview.md)
   + [Understand the AEM user interface](./course-1/understanding-the-aem-user-interface.md)
   + [Create and structure content](./course-1/creating-and-structuring-content.md)
@@ -28,4 +28,20 @@ breadcrumb-title: XML Documentation Videos
   + [Troubleshooting publishing errors](./course-2/troubleshooting-publishing-errors.md)
   + [Bulk publishing](./course-2/bulk-publishing.md)
   + [Recap](./course-2/recap.md)
-  
++ Authoring using [!DNL XML Documentation] Editor {#advanced-user-guide}
+  + [Introduction/Overview](./course-3/overview.md)
+  + [User Preferences, Editor Settings, and Editor Toolbars](./course-3/user-settings-preferences-toolbars.md)
+  + [Folder Profiles](./course-3/folder-profiles.md)
+  + [Editor Configuration](./course-3/editor-configuration.md)
+  + [Panels](./course-3/panels.md)
+  + [Outline View](./course-3/outline-view.md)
+  + [Cross-references and Links](./course-3/cross-references-and-links.md)
+  + [Content Reuse](./course-3/content-reuse.md)
+  + [Keys](./course-3/keys.md)
+  + [Glossary](glossary.md)
+  + [Spell Check and Find/Replace](./course-3/spell-check.md)
+  + [Track Changes](./course-3/track-changes.md)
+  + [Conditions](./course-3/conditions.md)
+  + [Maps and Bookmaps](./course-3/maps-and-bookmaps.md)
+  + [Simple Content Creation Workflows](./course-3/simple-content-creation-workflows.md)
+  + [Conclusion/Summary](./course-3/summary.md)
