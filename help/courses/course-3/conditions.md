@@ -7,7 +7,7 @@ exl-id: 2cb670d9-1a22-47c6-8409-52d1d526010a
 
 In DITA, conditions are often driven through attributes such as Product, Platform, and Audience. These can also have specific values assigned to them. Users can control all of this through Folder Profiles.
 
-Sample files that you may opt to use for this lesson are provided in the file _conditions.zip_.
+Sample files that you may opt to use for this lesson are provided in the file [conditions.zip](assets/conditions.zip).
 
 >[!VIDEO](https://video.tv.adobe.com/v/342755)
 
