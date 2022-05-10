@@ -11,7 +11,7 @@ Check out this space for video based tutorials for [!DNL XML Documentation] for 
 
 ## What's New
 
-* **[[!DNL XML Documentation] Authoring Course](course-3/introduction.md)**
+* **[[!DNL XML Documentation] Authoring Course](course-3/overview.md)**
 
     *Advanced User Guide to [!DNL XML Documentation] Editor*
 

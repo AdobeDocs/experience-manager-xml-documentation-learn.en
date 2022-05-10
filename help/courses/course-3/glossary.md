@@ -27,7 +27,7 @@ The correct Root Map must be selected to properly work with a glossary. When a R
 
 2. Click the [!UICONTROL **User Preferences**] icon on the top toolbar.
 
-    ![User Preferences Icon](images/reuse/ßuser-prefs-icon.png)
+    ![User Preferences Icon](images/reuse/user-prefs-icon.png)
 
 3. Click the key icon to specify the correct Root Map for working with the glossary.
 

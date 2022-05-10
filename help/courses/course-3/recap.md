@@ -9,7 +9,7 @@ description: Overview and Recap of training AEM Guides
 
 In this course you learned about:
 
-• [User Preferences and Settings](user-preferences-and-settings.md)
+• [User Preferences and Settings](./user-settings-preferences-toolbars.md)
 
 • [Folder Profiles](folder-profiles.md)
 

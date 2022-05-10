@@ -131,32 +131,32 @@ Searches can be narrowed to DITA Topics or DITA Maps. You can search non-DITA im
 
 Several useful features are available in the Map View, including the ability to checkout and lock files, preview the map file, open the Map Dashboard, and view the map in the Assets UI. 
 
-Refer to the lesson titled [Maps and Bookmaps](maps-and-bookmarks.md) in this course for more information on the Map View and its functionality.
+Refer to the lesson titled [Maps and Bookmaps](./maps-and-bookmaps.md) in this course for more information on the Map View and its functionality.
 
 ## Explore the Outline View
 
 The Outline View provides a hierarchical view of the current document in the Outline. You can expand the Outline View to show multiple elements as well as any assigned IDs. 
 
-Refer to the lesson titled [Outline View](outline-veiew.md) in this course for more information on the Outline View and its functionality.
+Refer to the lesson titled [Outline View](./outline-view.md) in this course for more information on the Outline View and its functionality.
 
 ## Work with Reusable Contents
 
 The core DITA feature is the ability to reuse content, from small phrases to entire topics or maps. The Editor provides a drag-and-drop interface for content reuse.
 
-Refer to the lesson titled [Content Reuse](content-reuse.md) in this course for more 
+Refer to the lesson titled [Content Reuse](./content-reuse.md) in this course for more 
 information on reusable content and how to manage it effectively.
 
 ## Work with Glossaries
 
 Using the Glossary makes it easier to consistently phrase information and provide better clarity to the reader. The Editor provides a drag-and-drop interface for inserting glossary terms into a topic.
 
-Refer to the lesson titled [Glossary](glossary.md) in this course for more information on configuring and using glossaries. 
+Refer to the lesson titled [Glossary](./glossary.md) in this course for more information on configuring and using glossaries. 
 
 ## Work with Conditions
 
 In DITA, conditions are often driven through use of attributes such as Product, Platform, and Audience, which can each have specific values assigned to them. Conditions are managed through Folder Profiles.
 
-Refer to the lesson titled [Conditions](conditions.md) in this course for more information on configuring and using conditional attributes. 
+Refer to the lesson titled [Conditions](./conditions.md) in this course for more information on configuring and using conditional attributes. 
 
 ## Create a Snippet
 
@@ -186,13 +186,13 @@ The Snippet is added to the list of available Snippets. It is ready to be dragge
 
 Using the Templates panel, administrators can easily create and manage templates for authors to use. By default, templates are categorized as Map and Topic-type.
 
-Refer to the lessons titled [Folder Profiles](folder-profiles.md) and [Simple Content Creation Workflows](simple-content-creation-workflows.md) in this course for more information on configuring and applying templates. 
+Refer to the lessons titled [Folder Profiles](./folder-profiles.md) and [Simple Content Creation Workflows](simple-content-creation-workflows.md) in this course for more information on configuring and applying templates. 
 
 ## Search files with Find and Replace
 
 There are two Find and Replace options available in the Editor. The first allows Find and Replace functions within a specific open topic, much like a traditional word processor. The second is a Find and Replace panel that searches text in multiple files in the Repository.
 
-Refer to the lesson titled [Spell Check and Find and Replace](spell-check.md)  in this course for more information on the Find and Replace feature.
+Refer to the lesson titled [Spell Check and Find and Replace](./spell-check.md)  in this course for more information on the Find and Replace feature.
 
 ## Update Content Properties
 
@@ -250,7 +250,7 @@ The right panel contains a shortcut to kick off a review workflow.
 
 1. Click the [!UICONTROL **Review**] icon on the right panel.
  
-    ![Review Icon](images/lesson-5/review-Icon.png)
+    ![Review Icon](images/lesson-5/review-icon.png)
 
 2. Click [!UICONTROL **Create Review**].
  
@@ -266,7 +266,7 @@ The Review Task is created.
 
 The ability to track changes give you a great deal of control over what changes are retained in one version of a topic to the next. You can use the right panel to manage tracked changes.
 
-Refer to the lesson titled [Track Changes](track-changes.md) in this course for more information on change tracking functionality. 
+Refer to the lesson titled [Track Changes](./track-changes.md) in this course for more information on change tracking functionality. 
 
 
 
