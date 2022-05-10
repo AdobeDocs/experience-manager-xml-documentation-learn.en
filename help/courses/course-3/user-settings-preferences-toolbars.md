@@ -15,7 +15,7 @@ Tags are visual cues indicating an element's boundaries. An element boundary mar
 
 1. Click the [!UICONTROL **Toggle Tags View**] icon on the secondary toolbar.
 
-    ![Toggle Tags](images\lesson-2\tags-on-icon.png)
+    ![Toggle Tags](images/lesson-2/tags-on-icon.png)
 
     Tags appear within the topic. With Tags View on you can:
 
@@ -37,13 +37,13 @@ Locking (or checking out) a file gives the user exclusive write access on the fi
 
 1. Click the [!UICONTROL **Lock**] icon on the secondary toolbar.
 
-    ![Checkout](images\lesson-2\checkout-icon.png)
+    ![Checkout](images/lesson-2/checkout-icon.png)
 
     The file has been checked out and a Lock icon appears beside the file name in the Repository.
 
 2. Click the [!UICONTROL **Unlock**] icon.
 
-    ![Checkin](images\lesson-2\check-in-icon.png)
+    ![Checkin](images/lesson-2/check-in-icon.png)
 
 The Repository updates to show that the file has been checked in.
 
@@ -51,7 +51,7 @@ The Repository updates to show that the file has been checked in.
 
 1. Click the [!UICONTROL **Insert Special Characters**] icon on the secondary toolbar.
 
-    ![Special](images\lesson-2\special-icon.png)
+    ![Special](images/lesson-2/special-icon.png)
 
 2. In the Insert Special Character dialog, type the name of the character in the search bar.
 
@@ -67,7 +67,7 @@ The special character is inserted into the text.
 
 The toolbar at the top right of the screen allows you to switch between views.
 
-![Modes](images\lesson-2\modes.png)
+![Modes](images/lesson-2/modes.png)
 
 • Select **Author** to view the structure and content as you work with a topic.
 
@@ -87,7 +87,7 @@ You can choose from Light or Dark themes for the editor. Using the Light theme, 
 
 3. Choose from the available options.
 
-    ![Themes](images\lesson-2\themes.png)
+    ![Themes](images/lesson-2/themes.png)
 
 4. Click [!UICONTROL **Save**].
 
@@ -103,7 +103,7 @@ You can update the Base Path so that the Repository View shows you the content f
 
 2. In the User Preferences dialog, click the [!UICONTROL **Folder**] icon next to the Base Path.
 
-    ![Base Folder Path](images\lesson-2\base-path-folder-icon.png)
+    ![Base Folder Path](images/lesson-2/base-path-folder-icon.png)
 
 3. In the Select Path dialog, click the checkbox next to a specific folder.
 
@@ -121,7 +121,7 @@ The Global Profile is a system default. Administrators can create additional Fol
 
 2. In the User Preferences dialog, click the [!UICONTROL **Folder Profiles**] dropdown.
 
-    ![Profile List](images\lesson-2\folder-profiles-dropdown.png)
+    ![Profile List](images/lesson-2/folder-profiles-dropdown.png)
 
 3. Choose a profile from the available options.
 
@@ -135,7 +135,7 @@ Editor settings are available to administrative users. These preferences allow y
 
 1. Click the [!UICONTROL **Editor Settings**] icon on the top toolbar.
 
-    ![Editor Settings](images\lesson-2\editor-settings-icon.png)
+    ![Editor Settings](images/lesson-2/editor-settings-icon.png)
 
 2. In the Editor Settings dialog, click the [!UICONTROL **General**] tab.
 
@@ -151,13 +151,13 @@ One of the features you can customize with Editor Settings is Panels. More speci
 
 1. Click the [!UICONTROL **Editor Settings**] icon on the top toolbar.
 
-    ![Editor Settings](images\lesson-2\editor-settings-icon.png)
+    ![Editor Settings](images/lesson-2/editor-settings-icon.png)
 
 2. In the Editor Settings dialog, click the [!UICONTROL **Panels**] tab.
 
 3. Toggle the available Panels to Show or Hide as required.
 
-    ![Toggle Panel](images\lesson-2\toggle-panels.png)
+    ![Toggle Panel](images/lesson-2/toggle-panels.png)
 
 4. Click [!UICONTROL **Save**].
 
@@ -169,7 +169,7 @@ The Elements List allows you to name a specific element and assign it a more hum
 
 1. Click the [!UICONTROL **Editor Settings**] icon on the top toolbar.
 
-    ![Editor Settings](images\lesson-2\editor-settings-icon.png)
+    ![Editor Settings](images/lesson-2/editor-settings-icon.png)
 
 2. In the Editor Settings dialog, click the [!UICONTROL **Elements List**] tab.
 
@@ -177,7 +177,7 @@ The Elements List allows you to name a specific element and assign it a more hum
 
 4. Click the [!UICONTROL **Plus**] icon to add more elements to the list.
 
-    ![Elements List](images\lesson-2\elements-list.png)
+    ![Elements List](images/lesson-2/elements-list.png)
 
 5. Click [!UICONTROL **Save**].
 
@@ -189,7 +189,7 @@ The Attributes List works similarly to the Elements List. From Editor Settings, 
 
 1. Click the [!UICONTROL **Editor Settings**] icon on the top toolbar.
 
-    ![Editor Settings](images\lesson-2\editor-settings-icon.png)
+    ![Editor Settings](images/lesson-2/editor-settings-icon.png)
 
 2. In the Editor Settings dialog, click the [!UICONTROL **Attributes List**] tab.
 
@@ -203,13 +203,13 @@ The Condition tab allows you to configure several properties.
 
 1. Click the [!UICONTROL **Editor Settings**] icon on the top toolbar.
 
-    ![Editor Settings](images\lesson-2\editor-settings-icon.png)
+    ![Editor Settings](images/lesson-2/editor-settings-icon.png)
 
 2. In the Editor Settings dialog, click the [!UICONTROL **Condition**] tab.
 
 3. Select the checkboxes of the conditions you want to apply.
 
-    ![Condition Tab](images\lesson-2\condition.png)
+    ![Condition Tab](images/lesson-2/condition.png)
 
 4. Click [!UICONTROL **Save**].
 
@@ -219,7 +219,7 @@ Publish profiles can be used to publish the knowledge base. For example, Salesfo
 
 1. Click the [!UICONTROL **Editor Settings**] icon on the top toolbar.
 
-    ![Editor Settings](images\lesson-2\editor-settings-icon.png)
+    ![Editor Settings](images/lesson-2/editor-settings-icon.png)
 
 2. In the Editor Settings dialog, click the [!UICONTROL **Profiles**] tab.
 

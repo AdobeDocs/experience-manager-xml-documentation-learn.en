@@ -13,7 +13,7 @@ You can keep track of all updates made on a document by enabling the Track Chang
 
 1. Toggle the **Track Changes** toolbar icon to enable (or disable) the feature.
 
-    ![Track Changes](images\lesson-12\track-changes-icon.png)
+    ![Track Changes](images/lesson-12/track-changes-icon.png)
 
 2. Make a change in the topic.
 
@@ -21,11 +21,11 @@ You can keep track of all updates made on a document by enabling the Track Chang
 
 3. Select the **Tracked Changes** icon on the right to access the Tracked Changes panel.
 
-    ![Accept/Reject All](images\lesson-12\accept-reject-all.png)
+    ![Accept/Reject All](images/lesson-12/accept-reject-all.png)
 
 4. Click [!UICONTROL **Save**].
 
-    ![Save Icon](images\lesson-12\save-icon.png)
+    ![Save Icon](images/lesson-12/save-icon.png)
 
 5. Close the topic.
 
@@ -48,7 +48,7 @@ Multiple tracked changes can also be filtered by insertion, deletion, or reviewe
 
 2. Select the checkboxes for the desired filters.
 
-    ![Filter UI](images\lesson-12\filter.png)
+    ![Filter UI](images/lesson-12/filter.png)
  
 3. Click [!UICONTROL **Apply**].
 
@@ -62,13 +62,13 @@ Reviewers and Subject Matter Experts can accept or reject other users’ changes
 
 3. Click the [!UICONTROL **Thumbs Up**] or [!UICONTROL **Thumbs Down**] icon associated with the change to accept or reject it.
  
-    ![Accept/Reject Single UI](images\lesson-12\accept-reject-single.png)
+    ![Accept/Reject Single UI](images/lesson-12/accept-reject-single.png)
 
     Or
 
     Click the [!UICONTROL **Thumbs Up**] or [!UICONTROL **Thumbs Down**] icon above the Search bar to accept or reject all changes.
 
-    ![Accept/Reject Single UI](images\lesson-12\accept-reject-single.png)
+    ![Accept/Reject Single UI](images/lesson-12/accept-reject-single.png)
 
 4. [!UICONTROL **Save**] the topic.
 
@@ -82,7 +82,7 @@ viewing the changes, but also what changes are retained in the latest version of
 
 2. Click the [!UICONTROL **Merge**] icon on the toolbar.
     
-    ![Merge Icon](images\lesson-12\merge-icon.png)
+    ![Merge Icon](images/lesson-12/merge-icon.png)
 
 3. In the Merge dialog, select a version of the file with which you want to compare the current version of the file.
 

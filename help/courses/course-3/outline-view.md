@@ -15,9 +15,9 @@ Elements can be expanded to show child elements or collapsed as required.
 
 1. Click on the appropriate icon to expand or collapse the Outline View.
 
-    ![Reference Outline](images\lesson-6\outline-collapsed-before.png)
+    ![Reference Outline](images/lesson-6/outline-collapsed-before.png)
     
-    ![Reference Outline Subtabs](images\lesson-6\outline-expanded-after.png)
+    ![Reference Outline Subtabs](images/lesson-6/outline-expanded-after.png)
 
 The outline view toggles from expanded to collapsed.
    
@@ -27,7 +27,7 @@ The outline view toggles from expanded to collapsed.
 
 2. Click the [!UICONTROL **Ellipsis**] next to an element to access shortcut options.
 
-    ![Context Menu](images\lesson-6\shortcut-options.png)
+    ![Context Menu](images/lesson-6/shortcut-options.png)
  
 ## Assign an ID using the Outline View
 
@@ -37,7 +37,7 @@ A new ID can be automatically generated based on system configuration. Using the
 
 2. Choose **Generate IDs**.
 
-    ![Ellipsis Context Menu](images\lesson-6\ellipsis-popup.png)
+    ![Ellipsis Context Menu](images/lesson-6/ellipsis-popup.png)
  
 The ID is assigned. The Content Properties updates and element and attribute information is displayed.
 
@@ -61,7 +61,7 @@ Elements can be reordered within the Outline View.
 
 3. Select **Rename Element**.
 
-    ![Rename Element Context Menu](images\lesson-6\rename-before.png)
+    ![Rename Element Context Menu](images/lesson-6/rename-before.png)
 
 4. Double-click a new element name.
 
@@ -81,7 +81,7 @@ The content remains but the structure has been removed.
 
 1. Click the [!UICONTROL **Filter**] icon next to the search bar in the Outline View.
 
-    ![Filters](images\lesson-6\filter-icon.png)
+    ![Filters](images/lesson-6/filter-icon.png)
 
 2. Choose either **All** to show all elements or **Broken links** to find and fix broken references.
 
@@ -91,6 +91,6 @@ A search can be restricted and return results based on an element, attribute, or
 
 1. Type the name of the element you want to find in the search bar.
 
-    ![Search Bar](images\lesson-6\search-bar.png)
+    ![Search Bar](images/lesson-6/search-bar.png)
 
 2. Choose the result that is most relevant to your needs.

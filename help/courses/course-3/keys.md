@@ -21,11 +21,11 @@ Sample files that you may opt to use for this lesson are provided in the file _k
 
     c. Select the file for extraction.
 
-    ![Select Zip](images\lesson-9\select-zip.png)
+    ![Select Zip](images/lesson-9/select-zip.png)
 
     d. Click [!UICONTROL **Extract Archive**] in the top toolbar.
 
-    ![Toolbar](images\lesson-9\extract-archive.png)
+    ![Toolbar](images/lesson-9/extract-archive.png)
 
     e. In the dialog, choose the specific location for files to be extracted, such as a folder called Keys.
 
@@ -37,7 +37,7 @@ Sample files that you may opt to use for this lesson are provided in the file _k
 
 2. When the extract is complete, click [!UICONTROL **Go to the target folder**].
 
-    ![Confirmation](images\lesson-9\go-to-target.png)
+    ![Confirmation](images/lesson-9/go-to-target.png)
 
 ## Resolve Keys to referenced values
 
@@ -51,13 +51,13 @@ To correctly use Keys, User Preferences must reference a specific map as the Roo
 
     c. Click the [!UICONTROL **User Preferences**] icon on the top toolbar.
 
-    ![Top Toolbar](images\lesson-9\author-view.png)
+    ![Top Toolbar](images/lesson-9/author-view.png)
 
     d. Click the key icon to specify a **Root Map** that will be used to resolve Keys.
 
     e. Select the checkboxes for any desired Assets.
 
-    ![Assets Dropdown](images\lesson-9\select-assets.png)
+    ![Assets Dropdown](images/lesson-9/select-assets.png)
 
     f. Click [!UICONTROL **Select**].
 
@@ -75,7 +75,7 @@ The Keys are resolved.
 
 2. Select a Key.
 
-    ![Key Dropdown](images\lesson-9\hybrid-key.png)
+    ![Key Dropdown](images/lesson-9/hybrid-key.png)
 
 3. Insert a new keydef.
 
@@ -83,7 +83,7 @@ The Keys are resolved.
 
     b. Select the **Keydef** icon on the top toolbar.
 
-    ![Keydef Toolbar](images\lesson-9\key-icon.png)
+    ![Keydef Toolbar](images/lesson-9/key-icon.png)
 
     c. In the Insert Keydef dialog, enter a unique value for Keys that makes sense for the definition you are creating.
 
@@ -93,7 +93,7 @@ The Keys are resolved.
 
     a. Click the [!UICONTROL **Insert Element**] icon on the top toolbar.
 
-    ![Keydef Toolbar](images\lesson-9\add-icon.png)
+    ![Keydef Toolbar](images/lesson-9/add-icon.png)
 
     b. In the Insert Element dialog, search and select “topicmeta”.
 
@@ -101,7 +101,7 @@ The Keys are resolved.
 
     a. Click the [!UICONTROL **Insert Element**] icon on the top toolbar.
 
-    ![Keydef Toolbar](images\lesson-9\add-icon.png)
+    ![Keydef Toolbar](images/lesson-9/add-icon.png)
 
     b. In the Insert Element dialog, search and select “keywords”.
 
@@ -109,7 +109,7 @@ The Keys are resolved.
 
     a. Click the [!UICONTROL **Insert Element**] icon on the top toolbar.
 
-    ![Keydef Toolbar](images\lesson-9\add-icon.png)
+    ![Keydef Toolbar](images/lesson-9/add-icon.png)
 
     b. In the **Insert Element** dialog, search and select “keyword”
 
@@ -117,7 +117,7 @@ The Keys are resolved.
 
 In the map, your keydef should now look something like this:
 
-![Keydef Finished](images\lesson-9\keydef.png)
+![Keydef Finished](images/lesson-9/keydef.png)
 
 ## Configure a keydef as a snippet
 

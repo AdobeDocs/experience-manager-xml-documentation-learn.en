@@ -15,7 +15,7 @@ Images can be added directly from a local drive.
 
 1. Drag and drop the image directly into the topic. The **Upload Assets** dialog appears. 
 
-    ![Upload Assets Dialog](images\lesson-15\upload-assets-dialog.png)
+    ![Upload Assets Dialog](images/lesson-15/upload-assets-dialog.png)
 
 2. Modify the folder path to the desired image location.
 
@@ -39,7 +39,7 @@ Images can be added directly from a local drive.
     
     • other attributes.
 
-    ![Content Properties](images\lesson-15\content-properties.png) 
+    ![Content Properties](images/lesson-15/content-properties.png) 
 
 ## Work with multiple topics
 
@@ -53,7 +53,7 @@ Split View is helpful when comparing topics, copying and pasting between topics,
 
 4. Choose **Right**.
 
-    ![Split View](images\lesson-15\split-view.png)
+    ![Split View](images/lesson-15/split-view.png)
  
 ## Correct typographical errors
 
@@ -75,7 +75,7 @@ Users may want to download a PDF of the current topic to mark up or share with o
 
 2. Click the [!UICONTROL **PDF icon**] above the topic. A dialog appears.
 
-    ![PDF Export](images\lesson-15\pdf-export.png)
+    ![PDF Export](images/lesson-15/pdf-export.png)
  
 3. Fill in the information for either **Transformation Name** or **DITA-OT Command Line Arguments** if required. Note that a PDF still generates if all fields are left blank.
 
@@ -102,11 +102,11 @@ Users may want to download a PDF of the current topic to mark up or share with o
 
 3. Click the **Repository** icon on the top left menu.
 
-    ![Repository Icon](images\lesson-15\repository-icon.png)
+    ![Repository Icon](images/lesson-15/repository-icon.png)
  
 4. In the dialog, add **Comments for New Version**.
 
-    ![New Version Dialog](images\lesson-15\version-dialog.png)
+    ![New Version Dialog](images/lesson-15/version-dialog.png)
  
 5. Click [!UICONTROL **Save**].
 
@@ -124,7 +124,7 @@ Trying to track a topic's state based on only the Version Number can be difficul
 
     b. Under XML Content Version Labels, either add a new topic or use an existing one.
 
-    ![Content Version Labels](images\lesson-15\version-labels.png)
+    ![Content Version Labels](images/lesson-15/version-labels.png)
  
 3. Select [!UICONTROL **Upload**].
 
@@ -144,13 +144,13 @@ Version labels are now loaded.
 
 2. Click the [!UICONTROL **User Preferences**] icon at the top left of the current topic.
 
-    ![Folder Profile](images\lesson-15\folder-profile-icon.png)
+    ![Folder Profile](images/lesson-15/folder-profile-icon.png)
  
 3. Select the same Folder Profile where version labels were previously loaded.
 
 4. In the User Preferences dialog, ensure the Base Path references the same information the Folder Profile has been applied to.
 
-    ![User Preferences](images\lesson-15\user-preferences.png)
+    ![User Preferences](images/lesson-15/user-preferences.png)
  
 5. Click [!UICONTROL **Save**].
 
@@ -158,7 +158,7 @@ Version labels are now loaded.
 
 7. Add a comment and select a version label from the dropdown.
 
-    ![New Version Label Dialog](images\lesson-15\labels-dialog.png)
+    ![New Version Label Dialog](images/lesson-15/labels-dialog.png)
 
 8. Click [!UICONTROL **Save**].
 
@@ -172,11 +172,11 @@ The version number updates.
 
 3. Select [!UICONTROL **View in Assets UI**].
 
-    ![Assets UI](images\lesson-15\view-assets-ui.png)
+    ![Assets UI](images/lesson-15/view-assets-ui.png)
  
     - The version history with labels is displayed on the left.
 
-    ![Version History](images\lesson-15\version-history.png)
+    ![Version History](images/lesson-15/version-history.png)
  
  
 4. Click on a version to access options such as **Revert to this Version** and **Preview Version**.
@@ -191,7 +191,7 @@ Templates exist for both topics and maps. Administrators can access Templates in
 
 3. Click to add the new template.
 
-    ![New Topic Template](images\lesson-15\version-history.png)
+    ![New Topic Template](images/lesson-15/version-history.png)
 
 4. Populate the fields in the resulting dialog.
  

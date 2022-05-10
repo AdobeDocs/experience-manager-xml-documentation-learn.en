@@ -27,7 +27,7 @@ You may want to use a spell check tool other than the browser’s default dictio
 
 2. Select the **General** settings tab. 
 
-    ![Spell Check Config](images\lesson-11\configure-dictionary.png)
+    ![Spell Check Config](images/lesson-11/configure-dictionary.png)
 
 3. There are two options:
 
@@ -47,11 +47,11 @@ The Administrator can change the settings so that the AEM dictionary recognizes 
 
 2. Log in to **CRXDE Lite**.
 
-    ![AEM UI CRXDE Lite Icon](images\lesson-11\crxde-lite.png)
+    ![AEM UI CRXDE Lite Icon](images/lesson-11/crxde-lite.png)
 
 3. Navigate to the **_/apps/fmdita/config node_**.
 
-    ![CRXDE Lite Config Node](images\lesson-11\config-node.png)
+    ![CRXDE Lite Config Node](images/lesson-11/config-node.png)
 
 
 4. Create a new file.
@@ -59,12 +59,12 @@ The Administrator can change the settings so that the AEM dictionary recognizes 
     a. Right-click on the config folder.
     b. Choose **Create > Create File**.
  
-    ![New Dictionary File Creation](images\lesson-11\new-dictionary-file.png)
+    ![New Dictionary File Creation](images/lesson-11/new-dictionary-file.png)
 
 
     c. Name the file _**user_dictionary.txt**_.
  
-    ![User Dictionary text](images\lesson-11\user-dictionary.png)
+    ![User Dictionary text](images/lesson-11/user-dictionary.png)
 
 
     d. Click [!UICONTROL **OK**].
@@ -83,7 +83,7 @@ Authors may need to restart their Web Editor session to get the updated custom w
 
 1. Click the Find and Replace icon on the top toolbar.
 
-    ![Find Replace Icon](images\lesson-11\find-replace-icon.png)
+    ![Find Replace Icon](images/lesson-11/find-replace-icon.png)
 
 2. In the bottom toolbar, type a word or phrase.
 
@@ -107,7 +107,7 @@ Authors may need to restart their Web Editor session to get the updated custom w
 
     • **Whole word only** — restricts the search to return only the exact word or phrase entered.
 
-    ![Find Replace in Repository](images\lesson-11\repository-find-replace.png)
+    ![Find Replace in Repository](images/lesson-11/repository-find-replace.png)
 
  
 5. Click the [!UICONTROL **Apply Filter**] icon to select the path in the Repository where you want to perform the search.
@@ -120,4 +120,4 @@ Authors may need to restart their Web Editor session to get the updated custom w
 
 9. Open the desired file and use the arrows to navigate from one found result to the next.
  
-    ![Find Replace Navigation UI](images\lesson-11\find-replace-navigation.png)
+    ![Find Replace Navigation UI](images/lesson-11/find-replace-navigation.png)

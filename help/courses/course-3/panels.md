@@ -23,11 +23,11 @@ The expanded view displays the names and the icons which appear as Tool Tips in 
 
 1. Click the [!UICONTROL **Sidebar**] icon to expand the panel.
 
-    ![Expand Sidebar](images\lesson-5\expand-sidebar.png)
+    ![Expand Sidebar](images/lesson-5/expand-sidebar.png)
 
 2. Click the [!UICONTROL **Sidebar**] icon again to collapse the panel.
 
-    ![Collapse Sidebar](images\lesson-5\collapse-sidebar.png)
+    ![Collapse Sidebar](images/lesson-5/collapse-sidebar.png)
  
 ## Create a Favorites Collection
 
@@ -37,7 +37,7 @@ On the left panel, Favorites allows you to create a list of specific documents a
 
 2. Click the [!UICONTROL **Plus**] icon.
 
-    ![Favorites Plus](images\lesson-5\favorites-plus.png)
+    ![Favorites Plus](images/lesson-5/favorites-plus.png)
 
 3. In the New Collection dialog, enter a **Title** and a **Description**. 
 
@@ -61,7 +61,7 @@ After creating a Collection, you can begin adding Favorites to it.
 
     Here, we will choose to add to an Existing Collection.
  
-    ![Favorites Dialog](images\lesson-5\add-to-favorites-dialog.png)
+    ![Favorites Dialog](images/lesson-5/add-to-favorites-dialog.png)
 
 5. If required, select a collection from the dropdown.
 
@@ -81,7 +81,7 @@ Another way to add a topic to your Favorites is from an open topic in the Editor
 
 4. Choose **Add to** > **Favorites**.
 
-    ![Add to Favorites](images\lesson-5\addto-favorites.png)
+    ![Add to Favorites](images/lesson-5/addto-favorites.png)
 
 5. In the Add to Favorites dialog, choose **New Collection** or **Existing Collection**. 
 
@@ -103,7 +103,7 @@ It is easy to view which topics you have already added to your Favorites Collect
 
 2. Under Favorites, click the [!UICONTROL **Arrow**] icon next to a collection to view its contents.
 
-    ![View Favorites](images\lesson-5\view-favorites.png)
+    ![View Favorites](images/lesson-5/view-favorites.png)
 
 3. Click the [!UICONTROL **Ellipsis**] next to a topic to bring up contextual options, including the option to delete it from the Favorites list.
 
@@ -115,7 +115,7 @@ The enhanced filter in the Repository allows you to search for text with a wide 
 
 2. Click the [!UICONTROL **Filter Search**] icon.
 
-    ![Repository Filter Icon](images\lesson-5\repository-filter-icon.png)
+    ![Repository Filter Icon](images/lesson-5/repository-filter-icon.png)
 
 3. Type text in the selected path or choose a new path if required.
 
@@ -123,7 +123,7 @@ The enhanced filter in the Repository allows you to search for text with a wide 
 
 4. Click the Arrow icon next to a search category to narrow the search further if required.
 
-    ![Filter Criteria](images\lesson-5\filter-criteria.png)
+    ![Filter Criteria](images/lesson-5/filter-criteria.png)
  
 Searches can be narrowed to DITA Topics or DITA Maps. You can search non-DITA image files, multimedia, or other documents within the selected path. You can even restrict the search to DITA Elements or filter by file checkout.
 
@@ -170,7 +170,7 @@ Snippets are small content fragments that can be reused as a starting point for 
 
 4. In the resulting menu, choose Create [!UICONTROL **Snippet**].
 
-    ![Create Snippet](images\lesson-5\create-snippet.png)
+    ![Create Snippet](images/lesson-5/create-snippet.png)
 
 5. In the New Snippet dialog, add a **Title** and a **Description**.
 
@@ -206,7 +206,7 @@ Content Properties on the right panel includes specific information about the cu
 
 3. Type a new **Value** for the element.
 
-    ![New Value](images\lesson-5\new-value.png)
+    ![New Value](images/lesson-5/new-value.png)
  
 Content Properties dynamically updates as you make changes to elements.
 
@@ -218,11 +218,11 @@ File Properties shows additional information about the entire open topic. Some o
 
 2. Click the [!UICONTROL  **File Properties**] icon on the right panel.
 
-    ![File Properties Icon](images\lesson-5\file-properties-icon.png)
+    ![File Properties Icon](images/lesson-5/file-properties-icon.png)
 
 3. Set the **Document State** to **Edit**. Note that the References list is currently blank.
  
-    ![No References](images\lesson-5\no-references.png)
+    ![No References](images/lesson-5/no-references.png)
 
 4. Close the topic.
 
@@ -234,7 +234,7 @@ File Properties shows additional information about the entire open topic. Some o
 
 7. Click the [!UICONTROL **Edit**] icon.
 
-    ![Edit Map Icon](images\lesson-5\edit-map-icon.png)
+    ![Edit Map Icon](images/lesson-5/edit-map-icon.png)
 
 8. Once the map is open for editing, switch back to **Repository View**.
 
@@ -250,11 +250,11 @@ The right panel contains a shortcut to kick off a review workflow.
 
 1. Click the [!UICONTROL **Review**] icon on the right panel.
  
-    ![Review Icon](images\lesson-5\review-Icon.png)
+    ![Review Icon](images/lesson-5/review-Icon.png)
 
 2. Click [!UICONTROL **Create Review**].
  
-    ![Create Review](images\lesson-5\create-review.png)
+    ![Create Review](images/lesson-5/create-review.png)
 
 3. In the Create Review Task dialog, populate the fields as required.
 

@@ -32,7 +32,7 @@ Perform the following steps to create a map file.
 
 2. Click [!UICONTROL **Edit Topics**].
 
-    ![Edit Topic UI](images\lesson-14\edit-topics.png)
+    ![Edit Topic UI](images/lesson-14/edit-topics.png)
 
 Or
 
@@ -53,7 +53,7 @@ Or
 
 2. Click the appropriate [!UICONTROL **Toolbar Icon**] to add chapters, topics, or topicrefs.
 
-    ![Toolbar Icons](images\lesson-14\toolbar-icons.png)
+    ![Toolbar Icons](images/lesson-14/toolbar-icons.png)
 
 3. Choose one or more Assets you wish to add.
 
@@ -67,7 +67,7 @@ Use **Toolbar Arrows** to promote or demote chapters and topicrefs in a map or b
 
 2. Click the [!UICONTROL **Left Arrow**] to promote a topicref to a chapter, or the [!UICONTROL **Right Arrow**] to demote a chapter to a topicref. 
 
-    ![Arrow Icons](images\lesson-14\toolbar-arrows.png)
+    ![Arrow Icons](images/lesson-14/toolbar-arrows.png)
 
 3. Save and version the map if required.
 
@@ -79,13 +79,13 @@ Or
 
 1. From the **Map Toolbar**, insert a topicgroup.
 
-    ![Add Attribute](images\lesson-14\add-topicgroup.png)
+    ![Add Attribute](images/lesson-14/add-topicgroup.png)
 
 2. Click the [!UICONTROL **Plus Icon**] to insert elements.
 
 3. Choose elements to insert.
 
-    ![Insert Metadata](images\lesson-14\insert-metadata.png)
+    ![Insert Metadata](images/lesson-14/insert-metadata.png)
 
 4. Click [!UICONTROL **Close**].
 
@@ -97,7 +97,7 @@ A reltable can be added after a map is structured.
 
 2. Use the **Toolbar Icon** to add the reltable to the map.
 
-    ![Reltable Icon](images\lesson-14\reltable-icon.png)
+    ![Reltable Icon](images/lesson-14/reltable-icon.png)
 
 3. Configure the dialog.
 
@@ -113,5 +113,5 @@ A reltable can be added after a map is structured.
 
 2. Under Other Attributes in the Content Properties panel, choose an **Attribute** and its **Value.**
 
-    ![Add Attributes](images\lesson-14\add-attribute.png)
+    ![Add Attributes](images/lesson-14/add-attribute.png)
     
