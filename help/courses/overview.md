@@ -11,6 +11,10 @@ Check out this space for video based tutorials for [!DNL XML Documentation] for 
 
 ## What's New
 
+* **[[!DNL XML Documentation] Authoring Course](course-3/introduction.md)**
+
+    *Advanced User Guide to [!DNL XML Documentation] Editor*
+
 * **[[!DNL XML Documentation] Getting Started Course](course-1/overview.md)**
 
     *Learn how to create, organize, author and publish content with [!DNL XML Documentation] for Adobe Experience Manager.*
