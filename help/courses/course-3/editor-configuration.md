@@ -17,13 +17,13 @@ You can always download the default UI configuration to your local system, make 
 
 1. From the Navigation screen, click the [!UICONTROL **Tools**] icon.
 
-    ![Tools Icon](images\reuse\tools-icon.png)
+    ![Tools Icon](images/reuse/tools-icon.png)
 
 2. Select **XML Documentation** on the left panel.
 
 3. Click the [!UICONTROL **Folder Profiles**] tile.
 
-    ![Folder Profiles](images\reuse\folder-profiles-tile.png)
+    ![Folder Profiles](images/reuse/folder-profiles-tile.png)
 
 4. Select a Folder Profile.
 
@@ -31,7 +31,7 @@ You can always download the default UI configuration to your local system, make 
 
 6. Click [!UICONTROL **Download**] Default.
 
-    ![Download Default](images\lesson-4\download-default.png)
+    ![Download Default](images/lesson-4/download-default.png)
 
 You can now open and modify the content in a text editor. The _XML Documentation for AEM Installation and Configuration_ Guide contains samples of how to remove, customize, or add functions to the UI configuration.
 
@@ -43,11 +43,11 @@ After customizing the UI configuration, you can upload it. Note that a sample co
 
 2. Under XML Editor UI configuration, click [!UICONTROL **Upload**].
 
-    ![Upload](images\lesson-4\upload.png)
+    ![Upload](images/lesson-4/upload.png)
 
 3. Double-click the file for your modified UI configuration, or as shown here, the provided sample file.
  
-    ![Sample Config File](images\lesson-4\sample-config-file.png)
+    ![Sample Config File](images/lesson-4/sample-config-file.png)
 
 4. Click [!UICONTROL **Save**] in the top left corner of the screen.
 
@@ -59,13 +59,13 @@ As with the UI configuration, you can download the CSS template layout. You can 
 
 1. From the Navigation screen, click the [!UICONTROL **Tools**] icon.
 
-    ![Tools Icon](images\reuse\tools-icon.png)
+    ![Tools Icon](images/reuse/tools-icon.png)
 
 2. Select **XML Documentation** on the left panel.
 
 3. Click the [!UICONTROL **Folder Profiles**] tile.
 
-    ![Folder Profiles](images\reuse\folder-profiles-tile.png)
+    ![Folder Profiles](images/reuse/folder-profiles-tile.png)
 
 4. Select a Folder Profile.
 
@@ -73,7 +73,7 @@ As with the UI configuration, you can download the CSS template layout. You can 
 
 6. Under CSS Template layout, click [!UICONTROL **Download**].
 
-    ![Dowload CSS](images\lesson-4\download-css.png)
+    ![Dowload CSS](images/lesson-4/download-css.png)
  
 You can now modify and save the CSS content in a text editor. 
 
@@ -85,11 +85,11 @@ After customizing the CSS Template layout, you can upload it. Note that a sample
 
 2. Under CSS Template layout, click [!UICONTROL **Upload**].
 
-    ![Upload CSS](images\lesson-4\upload-css.png)
+    ![Upload CSS](images/lesson-4/upload-css.png)
 
 3. Double-click the file for either your own custom CSS layout or the provided sample file shown here.
 
-    ![Sample CSS File](images\lesson-4\sample-css-file.png)
+    ![Sample CSS File](images/lesson-4/sample-css-file.png)
 
 4. Click [!UICONTROL **Save**] in the top left corner of the screen.
 You have successfully uploaded the customized CSS Template layout.
@@ -100,13 +100,13 @@ Snippets are reusable pieces of content that can be specific to a product or gro
 
 1. From the Navigation screen, click the [!UICONTROL **Tools**] icon.
 
-    ![Tools Icon](images\reuse\tools-icon.png)
+    ![Tools Icon](images/reuse/tools-icon.png)
 
 2. Select **XML Documentation** on the left panel.
 
 3. Click the [!UICONTROL **Folder Profiles**] tile.
 
-    ![Folder Profiles](images\reuse\folder-profiles-tile.png)
+    ![Folder Profiles](images/reuse/folder-profiles-tile.png)
 
 4. Select a Folder Profile.
 
@@ -114,11 +114,11 @@ Snippets are reusable pieces of content that can be specific to a product or gro
 
 6. Under XML Editor Snippets, click **Upload**.
 
-    ![Upload Snippets](images\lesson-4\upload-snippets.png)
+    ![Upload Snippets](images/lesson-4/upload-snippets.png)
 
 7. Choose your own Snippets or use the samples provided.
 
-    ![Sample Snippet](images\lesson-4\sample-snippet.png)
+    ![Sample Snippet](images/lesson-4/sample-snippet.png)
 
 8. Click [!UICONTROL **Save**] in the top left corner of the screen.
 
@@ -130,13 +130,13 @@ By default, authors are allowed to create labels of their choice, and associate 
 
 1. From the Navigation screen, click the [!UICONTROL **Tools**] icon.
 
-    ![Tools Icon](images\reuse\tools-icon.png)
+    ![Tools Icon](images/reuse/tools-icon.png)
 
 2. Select **XML Documentation** on the left panel.
 
 3. Click the [!UICONTROL **Folder Profiles**] tile.
  
-    ![Folder Profiles](images\reuse\folder-profiles-tile.png)
+    ![Folder Profiles](images/reuse/folder-profiles-tile.png)
 
 4. Select a Folder Profile.
 
@@ -144,7 +144,7 @@ By default, authors are allowed to create labels of their choice, and associate 
 
 6. Under XML Content Version Labels, click [!UICONTROL **Download**].
 
-    ![Download Labels](images\lesson-4\download-labels.png)
+    ![Download Labels](images/lesson-4/download-labels.png)
 
 You are now ready to customize the labels as required.
 
@@ -156,11 +156,11 @@ Once you have downloaded and modified the labels, you can upload the XML Content
 
 2. Under XML Content Version Labels, click [!UICONTROL **Upload**].
 
-    ![Upload Labels](images\lesson-4\upload-labels.png)
+    ![Upload Labels](images/lesson-4/upload-labels.png)
 
 3. Double-click the file for either your own custom labels or the provided sample file shown here.
 
-    ![Sample Labels File](images\lesson-4\sample-labels-file.png)
+    ![Sample Labels File](images/lesson-4/sample-labels-file.png)
 
 4. Click [!UICONTROL **Save**] in the top left corner of the screen.
 

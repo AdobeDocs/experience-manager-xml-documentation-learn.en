@@ -21,7 +21,7 @@ When a change is made to a reusable source topic, the information will update ev
 
 4. Populate the fields in the Create New Topic dialog. For example:
 
-    ![Confirmation](images\lesson-8\new-topic-dialog.png)
+    ![Confirmation](images/lesson-8/new-topic-dialog.png)
 
 5. Click [!UICONTROL **Create**].
 
@@ -37,7 +37,7 @@ There are several methods for adding reusable elements. Here, the first workflow
 
 2. Select the **Insert Reusable Content** icon on the top toolbar.
 
-    ![Confirmation](images\lesson-8\insert-reuse-icon.png)
+    ![Confirmation](images/lesson-8/insert-reuse-icon.png)
 
 3. In the Reuse Content dialog, click the [!UICONTROL **Folder**] icon.
 
@@ -46,7 +46,7 @@ There are several methods for adding reusable elements. Here, the first workflow
 5. Choose a topic with reusable components.
 For example:
 
-    ![Confirmation](images\lesson-8\reusable-topic.png)
+    ![Confirmation](images/lesson-8/reusable-topic.png)
 
 6. Click [!UICONTROL **Select**].
 
@@ -62,7 +62,7 @@ The reusable element has now been inserted into the topic.
 
 2. Click the [!UICONTROL **Add**] icon on the Reusable Contents panel.
 
-    ![Confirmation](images\lesson-8\reuse-contents-icon.png)
+    ![Confirmation](images/lesson-8/reuse-contents-icon.png)
 
 3. Navigate to a folder.
 

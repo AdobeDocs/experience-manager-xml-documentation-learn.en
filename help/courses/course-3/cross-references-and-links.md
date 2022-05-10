@@ -31,7 +31,7 @@ It is possible to create an external cross-reference by dragging and dropping a 
 
 4. Click the [!UICONTROL **Reference**] icon on the top toolbar.
 
-    ![Toolbar](images\lesson-7\references-icon.png)
+    ![Toolbar](images/lesson-7/references-icon.png)
 
 5. From the **Content Reference** tab, select the ID and element pairing you want to insert as a cross-reference.
 
@@ -54,6 +54,6 @@ Some modifications can result in broken cross-references. These include deleting
 
 3. Select **Broken links**.
 
-    ![Filter Dropdown](images\lesson-7\broken-links.png)
+    ![Filter Dropdown](images/lesson-7/broken-links.png)
 
 Broken links display as clickable objects. You can identify them in red text in the topic.

@@ -17,17 +17,17 @@ Configurations are managed through the Folder Profiles icon.
 
 1. From the Navigation screen, click the [!UICONTROL **Tools**] icon.
 
-    ![Tools Icon](images\reuse\tools-icon.png)
+    ![Tools Icon](images/reuse/tools-icon.png)
 
 2. Select **XML Documentation** on the left panel.
 
 3. Click the [!UICONTROL **Folder Profiles**] tile.
 
-    ![Folder Profiles](images\reuse\folder-profiles-tile.png)
+    ![Folder Profiles](images/reuse/folder-profiles-tile.png)
 
 4. Select the desired profile. For example, choose **Global Profile**, which is the default profile.
 
-    ![Global Profile](images\lesson-3\global-profile-tile.png)
+    ![Global Profile](images/lesson-3/global-profile-tile.png)
  
 ## Edit Conditional Attributes in the Global Profile
 
@@ -37,13 +37,13 @@ Once you have accessed the Global Profile you can edit its configuration. The Gl
 
 2. Click [!UICONTROL **Edit**] in the top left corner of the screen.
 
-    ![Conditional Attributes](images\lesson-3\edit-conditional-attributes.png)
+    ![Conditional Attributes](images/lesson-3/edit-conditional-attributes.png)
 
 3. Click [!UICONTROL **Add**].
 
 4. Populate the **Name**, **Value**, and **Label** fields for the new condition.
 
-    ![new Condition](images\lesson-3\new-condition.png)
+    ![new Condition](images/lesson-3/new-condition.png)
 
 5. Click [!UICONTROL **Save**] at the top left corner of the screen.
 The new condition is now available to all users. You can select it in the Content Properties panel and apply it to content as required. 
@@ -54,13 +54,13 @@ In addition to the default Global Profile, you can create your own custom profil
 
 1. From the Navigation screen, click the [!UICONTROL **Tools**] icon.
 
-    ![Tools Icon](images\reuse\tools-icon.png)
+    ![Tools Icon](images/reuse/tools-icon.png)
 
 2. Select **XML Documentation** on the left panel.
 
 3. Click the [!UICONTROL **Folder Profiles**] tile.
 
-    ![Folder Profiles](images\reuse\folder-profiles-tile.png)
+    ![Folder Profiles](images/reuse/folder-profiles-tile.png)
  
 4. Click [!UICONTROL **Create**].
 
@@ -72,7 +72,7 @@ In addition to the default Global Profile, you can create your own custom profil
 
     c. Click [!UICONTROL **Create**].
 
-    ![Create Folder Profile](images\lesson-3\create-folder-profile.png)
+    ![Create Folder Profile](images/lesson-3/create-folder-profile.png)
  
 A tile with the new profile name appears on the Folder Profiles page.
 
@@ -82,7 +82,7 @@ Administrative users have rights to update the Conditional Attributes, Authoring
 
 1. Click on the tile to open the desired Folder Profile.
 
-    ![Edit Folder Profile](images\lesson-3\edit-folder-profile.png)
+    ![Edit Folder Profile](images/lesson-3/edit-folder-profile.png)
 
 2. Select the **General** tab.
 
@@ -94,7 +94,7 @@ Administrative users have rights to update the Conditional Attributes, Authoring
 
     You can add multiple Admin Users if required. 
 
-    ![Add Admin](images\lesson-3\add-admin.png)
+    ![Add Admin](images/lesson-3/add-admin.png)
 
 6. Click [!UICONTROL **Save**] in the top right corner of the screen when all users have been added.
 
@@ -108,7 +108,7 @@ Once you have accessed the Global Profile you can edit its configuration. The Gl
 
 2. Click [!UICONTROL **Edit**] in the top left corner of the screen.
 
-    ![Edit Conditional Attributes 2](images\lesson-3\edit-conditional-attributes-2.png)
+    ![Edit Conditional Attributes 2](images/lesson-3/edit-conditional-attributes-2.png)
 
 3. Click [!UICONTROL **Add**].
 
@@ -116,7 +116,7 @@ Once you have accessed the Global Profile you can edit its configuration. The Gl
 
     Clicking the [!UICONTROL **Plus**] sign allows you to add additional Value and Label pairs for the named attribute.
 
-    ![Add Conditions](images\lesson-3\add-conditions.png)
+    ![Add Conditions](images/lesson-3/add-conditions.png)
 
 5. Click [!UICONTROL **Save**] at the top left corner of the screen.
 
@@ -136,13 +136,13 @@ AEM Guides comes with out-of-the-box authoring templates and maps. You can restr
 
     b. Click [!UICONTROL **Add**].
 
-    ![Map Templates](images\lesson-3\map-templates.png)
+    ![Map Templates](images/lesson-3/map-templates.png)
 
 4. Add a Topic Template.
 
     a. From the **Topic Templates** dropdown, select an option from the available templates.
 
-    ![Topic Templates](images\lesson-3\topic-templates.png)
+    ![Topic Templates](images/lesson-3/topic-templates.png)
 
 5. Click [!UICONTROL **Add**].
 
@@ -160,13 +160,13 @@ You can configure each Output Preset based on the Folder Profile. Output Presets
 
 2. On the left panel, select the checkboxes of any presets that are not required.
 
-    ![Delete Presets](images\lesson-3\delete-presets.png)
+    ![Delete Presets](images/lesson-3/delete-presets.png)
 
 3. Click [!UICONTROL **Delete Preset**] in the top left corner of the screen.
 
 4. In the Delete Preset dialog, click [!UICONTROL **Delete**].
 
-    ![Delete](images\lesson-3\delete.png)
+    ![Delete](images/lesson-3/delete.png)
  
 Now the only Output Presets showing are the ones that will be used.
 
@@ -176,7 +176,7 @@ Now the only Output Presets showing are the ones that will be used.
 
 2. Under XML Editor Snippets, click [!UICONTROL **Upload**].
 
-    ![Upload Snippet](images\lesson-3\upload-snippet.png)
+    ![Upload Snippet](images/lesson-3/upload-snippet.png)
 
 3. Navigate to a previously created Snippet. 
 
@@ -196,11 +196,11 @@ In the Editor, you can see the results of the modifications you made to the Fold
 
 3. Click the [!UICONTROL **User Preferences**] icon on the top toolbar.
 
-    ![User Preferences](images\lesson-3\hr-user-prefs.png)
+    ![User Preferences](images/lesson-3/hr-user-prefs.png)
 
 4. In the User Preferences dialog, select the desired Folder Profile from the dropdown.
 
-    ![Select User Preferences](images\lesson-3\select-user-pref.png)
+    ![Select User Preferences](images/lesson-3/select-user-pref.png)
 
 5. Click [!UICONTROL **Save**].
 

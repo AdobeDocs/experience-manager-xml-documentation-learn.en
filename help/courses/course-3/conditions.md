@@ -21,7 +21,7 @@ Sample files that you may opt to use for this lesson are provided in the file _c
 
 4. Click [!UICONTROL **Add**].
 
-    ![Conditions in Folder Profiles](images\lesson-13\add-name.png)
+    ![Conditions in Folder Profiles](images/lesson-13/add-name.png)
  
 5. Complete the required fields.
 
@@ -59,11 +59,11 @@ The Conditions panel allows controlled assignment of Attribute and Value pairing
 
     a. Click the User Preferences icon.
 
-    ![User Preferences Icon](images\lesson-13\user-prefs-icon.png)
+    ![User Preferences Icon](images/lesson-13/user-prefs-icon.png)
 
      b. Complete the required fields in the **User Preferences** dialog. For example:
 
-    ![User Preferences](images\lesson-13\user-preferences.png)
+    ![User Preferences](images/lesson-13/user-preferences.png)
  
     c. Click [!UICONTROL **Save**].
 
@@ -79,13 +79,13 @@ Subject Scheme maps are a specialized form of ditamap and are referenced by a ma
 
 2. Select a map that references the Subject Scheme ditamap. This example uses the map called _Design and Layout_.
 
-    ![User Preferences](images\lesson-13\subject-scheme-map.png)
+    ![User Preferences](images/lesson-13/subject-scheme-map.png)
  
 3. Configure User Preferences.
 
     a. Click the [!UICONTROL **User Preferences**] icon.
 
-    ![User Preferences](images\lesson-13\user-prefs-icon-2.png)
+    ![User Preferences](images/lesson-13/user-prefs-icon-2.png)
  
     b. Populate the fields in the **User Preferences** dialog. 
 
@@ -100,7 +100,7 @@ Subject Scheme maps are a specialized form of ditamap and are referenced by a ma
     >Important: the selected Root Map must be the map that contains the Subject Scheme.
  
 
-    ![User Preferences](images\lesson-13\user-preferences-2.png)
+    ![User Preferences](images/lesson-13/user-preferences-2.png)
 
     f. Restrict the displayed assets by selecting the folder(s) you want to use.
 
