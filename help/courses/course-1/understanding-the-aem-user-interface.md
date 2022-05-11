@@ -1,6 +1,6 @@
 ---
-title: Understanding the AEM user interface in XML Documentation
-description:  Understanding the AEM user interface in XML Documentation for Adobe Experience Manager
+title: Understanding the AEM user interface in [!DNL XML Documentation]
+description:  Understanding the AEM user interface in [!DNL XML Documentation] for Adobe Experience Manager
 exl-id: 955a05ed-92d3-480e-9c6b-a0ff362cc464
 ---
 # Understanding the AEM User Interface
@@ -80,7 +80,7 @@ You can return to the XML Editor from any view of the Assets UI.
 
 ### Returning from Card View
 
-1. Select the pencil icon on a topic in the Assets UI.
+1. Select the pencil icon on a topic in the [!UICONTROL Assets] UI.
 
    ![Pencil icon](images/lesson-2/return-card-view.png)
 
