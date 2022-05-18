@@ -43,7 +43,7 @@ If desired, you can upload local sample files into AEM for a more complete set o
 
 1. Select the pencil icon in the left rail.
 
-   ![Edit icon](images/lesson-8/pencil-icon.png
+   ![Edit icon](images/lesson-8/pencil-icon.png)
 
    This is the Edit icon, and allows you to open the map in the editor.
 
