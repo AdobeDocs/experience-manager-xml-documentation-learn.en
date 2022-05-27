@@ -6,7 +6,7 @@ product: Experience Manager
 index: y
 type: Tutorial
 solution: Experience Manager, Experience Manager Guides
-feature-set: Experience Manager Guides
+feature-set: Experience Manager Guides, Experience Manager XML Documentation
 role: User
 ---
 
