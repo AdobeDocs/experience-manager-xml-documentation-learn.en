@@ -22,15 +22,15 @@ This section lists the compatibility matrix for the software applications suppor
 | Not compatible | 2020 Update 4 and above |
 | | |
 
+*Baseline and conditions created in AEM are supported in FMPS releases starting from 2020.2.
 
 ### Oxygen Connector
 
 | AEM Guides as a Cloud Release | Oxygen Connector Windows | Oxygen Connector Mac | 
 | --- | --- | --- |
-| 2022.5.0 | 2.5.6 | 2.5.6 | 
+| 2022.5.0 | 2.6.9 | 2.6.9 | 
 |  |  |  |  
 
-*Baseline and conditions created in AEM are supported in FMPS releases starting from 2020.2.
 
 ## New features and enhancements
 
@@ -73,13 +73,13 @@ If you need to create only the scope for a project to be translated, you can sel
 
 * The **Languages** list displays the language folders along with their language codes. For example, French (fr) and German (de).
 
-* The translation feature now also supports the language code which includes both country and language. For example, `fr-fr`,`en-us`. 
+* The translation feature now also supports the language code which includes both country and language. For example, `fr-fr`, `en-us`. 
 
 ![translation languaged](assets/translation-languages.png)
 
 * On loading a DITA map that is outside the language folder, no exception is logged at the backend.
 
-For more details on translation, see *Translate documents from the Web Editor* section in the Using Adobe Experience Manager Guides as a Cloud Service.
+For more details on translation, see *Translate documents from the Web Editor* section in Using Adobe Experience Manager Guides as a Cloud Service.
 
 
 ### Enhanced Publishing
@@ -101,8 +101,6 @@ XML Editor provides the ability to map more than one product category to an arti
 
 * The Preview mode also supports `deliveryTarget` conditional processing attribute in DITA. It is available as an option in the drop-down filter along with **audience**, **platform**, **product**, props, **otherprops**. 
 * Option has been provided to forcefully sync between the AEM server in Oxygen and the local system.
-* Metadata passed to the AEM server in Oxygen is updated based on the baseline or active version of the content.
-
 
 ## Fixed issues
 
@@ -123,16 +121,17 @@ The bugs fixed in various areas are listed below:
 * The search functionality for Tags and Attributes is not working in the Outline panel. (9506)
 * Newly created Collection is not visible until the browser is refreshed the browser. (9505)
 * Conditional Attributes labels (not the values) appear in source mode on adding all the conditions via the "Add all props" option. (9501)
-* Files are checked out automatically on reverting to any version.(9482)
+* Files are checked out automatically on reverting to any version. (9482)
 * Incorrect timestamp differences are displayed in Assets UI on reverting a file version. (9480)
 * Multiple items from search results are added while inserting items in topicref element of DITA map. (9474)
-* If the setting :create.new.version on file upload is ON, editing and saving a topic on some frozen node in editor, creates a new version of the topic. (9473)
-* Display text of Key Reference and Content Key Reference is not maintained on changing the link URL, if the display text is not added while defining key reference.(9458)
-* In Version History, version number and label are not displayed for the current version.(9446)
+* If the setting **Create New Version for Uploaded File** is ON, a new version is created on reverting and saving on any frozen node. (9473)
+* Display text of Key Reference and Content Key Reference is not maintained on changing the link URL, if the display text is not added while defining key reference. (9458)
+* In Version History, version number and label are not displayed for the current version. (9446)
 * Editor freezes when certain content files are opened in the editor. (9443)
 * Search in Repository panel and topicref browse dialog freezes the screen when the content is large. (9432)
+* Metadata passed to AEM site output does not honor the baseline of the content. (9416)
 * Oxygen checks out an incorrect version of a topic after a version revert in AEM. (9411)
-* Failed baseline disables editing in Preset tab of the map dashboard. (9403)
+* Failed baseline disables editing in the Preset tab of the map dashboard. (9403)
 * Error always gets logged on the creation of new content. (9388)
 * Newly created DITA assets are always checked out by another user. (9387)
 * Rename element is not working correctly while converting topicref to glossref. (9380)
@@ -141,12 +140,12 @@ The bugs fixed in various areas are listed below:
 * Multiple issues occur on using Preview filters. (9365)
 * Unable to insert non-DITA and DITAVAL assets in topicref. (9363)
 * Approved translation does not integrate to the target language when the target language code contains five characters like `fr_ca`. (9357)
-* Not able to search files using **Find Files in Folder** from the More options and the app becomes unresponsive. (9337)
+* Not able to search files using **Find Files in Folder** from the **More Options** menu and the app becomes unresponsive. (9337)
 * Browse dialog hangs if large number of keys are present. (9332)
 * DITAVAL files not working while doing article-based publishing. (9330)
 * Order of footnotes is incorrect in the AEM Site output. (9327)
 * Search is not automatically performed when select path is changed. (9323)
-* When the translation is done, an additional version is created for the translated asset.(9310) 
+* When the translation is done, an additional version is created for the translated asset. (9310) 
 * Unable to delete the Administrator users in the folder profile. (9306)
 * Root map updated from Content Key Reference is not set until the page is refreshed. (9302)
 * Web Authentication not working in Oxygen. (9296)
@@ -154,7 +153,7 @@ The bugs fixed in various areas are listed below:
 * File is not checked out when opened in Oxygen. (9217)
 * Refresh checked out files is not working on logging with Web authentication in Oxygen. (9179)
 * Translation and Baseline tabs are visible for some time on the Map dashboard. (9146)
-* Experience or feature issues on reloading Folder Profile. (9103)
+* Experience or feature issues occur on reloading Folder Profile. (9103)
 * Deleting page layout editor doesn't close it from the center panel in the Author view. (9087)
 * Validation error occurs in the Web Editor on removing an image and then saving the new version of the document. (8985)
 * Unable to view all the `glossrefs` in the Glossary panel (content specific). (8886)
