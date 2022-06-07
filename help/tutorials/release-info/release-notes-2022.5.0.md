@@ -165,7 +165,7 @@ The bugs fixed in various areas are listed below:
 * DITA Add on package prevents the DAM duplicate asset detection. (8417)
 * Create review task button enabled for non-DITA files. (8401)
 * Insert references dialog opens on adding subjectref to a map using UI. (8212)
-* Unexpected space found in each blank `entry` element when outputclass attribute is added to <tgroup> element. (7532)
+* Unexpected space found in each blank `entry` element when outputclass attribute is added to `tgroup` element. (7532)
 * Repository panel doesn't display checked in or checked out file lock icons as soon as the action is completed. (5817)
 * Lock icon is displayed in the repository view even when the file is checked in from the editor.  (5756)
 * Sites are missing in AEM presets under the Output tab. (9567)
