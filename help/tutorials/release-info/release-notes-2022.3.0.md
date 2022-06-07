@@ -1,16 +1,16 @@
 ---
 title: Release Notes for [!DNL XML Documentation], March 2022 release
-description: Latest release of [!DNL XML Documentation] for Adobe Experience Manager as a Cloud Service
+description: March release of [!DNL XML Documentation] for Adobe Experience Manager as a Cloud Service
 exl-id: 885edbb5-dfe4-4bdc-bb66-0df64addb094
 ---
-# Latest release of [!DNL XML Documentation] for Adobe Experience Manager as a Cloud Service 
+# March release of [!DNL XML Documentation] for Adobe Experience Manager as a Cloud Service 
 
 ## Upgrade to the March release
 
 Upgrade your current [!DNL XML Documentation] for Adobe Experience Manager as a Cloud Service (later referred as *[!DNL XML Documentation] for AEMaaCS*) setup by performing the following steps:
 1. Check out the Cloud Services' Git code and switch to the branch configured in the Cloud Services pipeline corresponding to the environment you want to upgrade.
 2. Update `<dox.version>` property in `/dox/dox.installer/pom.xml` file of your Cloud Services Git code to 2022.3.123.
-3. Commit the changes and run the Cloud Services pipeline to upgrade to the latest release of [!DNL XML Documentation] for AEMaaCS.
+3. Commit the changes and run the Cloud Services pipeline to upgrade to the March release of [!DNL XML Documentation] for AEMaaCS.
 
 ## Compatibility matrix
 
@@ -67,7 +67,7 @@ unsaved changes are opened for editing, you are prompted to save your files or c
 
 ### Publishing enhancements
 
-The publishing process has been further improved with the latest release of [!DNL XML Documentation] for AEMaaCS:
+The publishing process has been further improved with the March release of [!DNL XML Documentation] for AEMaaCS:
 
 * Baselines have been honored for the metadata of AEM site output. You can also process the properties of a baseline version as metadata. If no baseline is defined, then the properties of the latest version are processed as metadata.
 
