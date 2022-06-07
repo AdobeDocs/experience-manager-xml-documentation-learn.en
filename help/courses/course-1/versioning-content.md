@@ -62,7 +62,8 @@ The Revert Version dialog displays.
 You can also view version differences in Preview using the Tracking and Show Diff filters in the right rail.
 
 1. Select **Preview** from the top menu bar.
-   ![Preview button](images/common/select-preview.png
+
+   ![Preview button](images/common/select-preview.png)
 
    Your topic opens in Preview.
 
