@@ -5,8 +5,8 @@ git-repo: https://github.com/AdobeDocs/experience-manager-xml-documentation-lear
 product: Experience Manager
 index: y
 type: Tutorial
-solution: Experience Manager, Experience Manager Learn
-feature-set: Experience Manager Learn
+solution: Experience Manager, Experience Manager Guides
+feature-set: Experience Manager Guides
 role: User
 ---
 
