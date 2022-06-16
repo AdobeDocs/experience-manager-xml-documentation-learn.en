@@ -1,14 +1,14 @@
 ---
-user-guide-title: Tutorials for XML Documentation for AEM
-user-guide-description: Read our collection of tutorials for XML Documentation for Adobe Experience Manager.
-breadcrumb-title: XML Documentation Tutorials
+user-guide-title: Tutorials for AEM Guides
+user-guide-description: Read our collection of tutorials for Adobe Experience Manager Guides.
+breadcrumb-title: AEM Guides Tutorials
 ---
   
-# Tutorials for [!DNL XML Documentation] for Experience Manager {#tutorials}
+# Tutorials for [!DNL Adobe Experience Manager Guides] {#tutorials}
 
-+ [Tutorials for [!DNL XML Documentation] for AEM](overview.md)
++ [Tutorials for [!DNL AEM Guides] for AEM](overview.md)
 + Release Information {#release-info}
-  + [[!DNL XML Documentation] releases](./release-info/latest-release-info.md) 
+  + [[!DNL AEM Guides] releases](./release-info/latest-release-info.md) 
   + Release Notes {#release-notes}
     + Cloud Services {#cloud-release-notes}
       + [Deployment Instructions](./release-info/deploy-xml-on-aemaacs.md)

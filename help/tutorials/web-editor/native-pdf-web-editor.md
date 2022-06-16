@@ -1,21 +1,21 @@
 ---
 title: Native PDF | PDF output generation
-description: Generate PDF output in XML Documentation for Adobe Experience Manager as a Cloud Service
+description: Generate PDF output in Adobe Experience Manager Guides as a Cloud Service
 exl-id: ec3d59b7-1dda-4fd1-848e-21d8a36ff5e4
 ---
 # Publish a PDF output
 
-With the XML Documentation solution, you can generate PDFs of individual topics or an entire map file. You can publish your content in a PDF format using one of the three methods below: 
+With the AEM Guides solution, you can generate PDFs of individual topics or an entire map file. You can publish your content in a PDF format using one of the three methods below: 
 
 * **DITA-OT**  
 
-Use this method to generate a PDF output for a map from the map dashboard. You can set publishing properties before generating the PDF by creating an output preset for the map that is open in the map dashboard. To create or edit an output preset, the *Understanding the output presets* section in the [XML Documentation for AEM as a Cloud Service User Guide](https://helpx.adobe.com/content/dam/help/en/xml-documentation-solution/cs-apr-22/XML-Documentation-for-Adobe-Experience-Manager_CS_User-Guide_EN.pdf). 
+Use this method to generate a PDF output for a map from the map dashboard. You can set publishing properties before generating the PDF by creating an output preset for the map that is open in the map dashboard. To create or edit an output preset, the *Understanding the output presets* section in the [AEM Guides as a Cloud Service User Guide](https://helpx.adobe.com/content/dam/help/en/xml-documentation-solution/cs-apr-22/XML-Documentation-for-Adobe-Experience-Manager_CS_User-Guide_EN.pdf). 
 
 For more information on generating a PDF using the DITA-OT method, see [Generate PDF using DITA-OT](https://help.adobe.com/en_US/xml-documentation-for-adobe-experience-manager/index.html#t=DXML-master-map%2Fgenerate-output-pdf.html). 
 
 * **FrameMaker Publishing Server (FMPS)**
 
-Use this method to generate a PDF output from not only the DITA content, but also FrameMaker documents (.book and .fm) available in your AEM repository. The PDF can be created by configuring an output preset and published using FrameMaker Publishing Server (FMPS). You can design and configure the look-and-feel of your output for PDF and other formats and store the same in a setting file (.sts). This setting file is then used by FMPS to generate output for a DITA map or .book file. To create or edit an output preset, see the  *Understanding the output presets* section in the [XML Documentation for AEM as a Cloud Service User Guide](https://helpx.adobe.com/content/dam/help/en/xml-documentation-solution/cs-apr-22/XML-Documentation-for-Adobe-Experience-Manager_CS_User-Guide_EN.pdf).
+Use this method to generate a PDF output from not only the DITA content, but also FrameMaker documents (.book and .fm) available in your AEM repository. The PDF can be created by configuring an output preset and published using FrameMaker Publishing Server (FMPS). You can design and configure the look-and-feel of your output for PDF and other formats and store the same in a setting file (.sts). This setting file is then used by FMPS to generate output for a DITA map or .book file. To create or edit an output preset, see the  *Understanding the output presets* section in the [AEM Guides as a Cloud Service User Guide](https://helpx.adobe.com/content/dam/help/en/xml-documentation-solution/cs-apr-22/XML-Documentation-for-Adobe-Experience-Manager_CS_User-Guide_EN.pdf).
 
 For more information on configuring FMPS, see [Generate output from FrameMaker documents](https://help.adobe.com/en_US/xml-documentation-for-adobe-experience-manager/index.html#t=DXML-master-map%2Ffm-output-generatation.html). 
 

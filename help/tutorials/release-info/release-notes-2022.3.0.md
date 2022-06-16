@@ -7,14 +7,14 @@ exl-id: 885edbb5-dfe4-4bdc-bb66-0df64addb094
 
 ## Upgrade to the March release
 
-Upgrade your current [!DNL XML Documentation] for Adobe Experience Manager as a Cloud Service (later referred as *[!DNL XML Documentation] for AEMaaCS*) setup by performing the following steps:
+Upgrade your current [!DNL Adobe Experience Manager Guides] as a Cloud Service (later referred as *[!DNL AEM Guides] as a Cloud Service*) setup by performing the following steps:
 1. Check out the Cloud Services' Git code and switch to the branch configured in the Cloud Services pipeline corresponding to the environment you want to upgrade.
 2. Update `<dox.version>` property in `/dox/dox.installer/pom.xml` file of your Cloud Services Git code to 2022.3.123.
-3. Commit the changes and run the Cloud Services pipeline to upgrade to the March release of [!DNL XML Documentation] for AEMaaCS.
+3. Commit the changes and run the Cloud Services pipeline to upgrade to the March release of [!DNL AEM Guides] as a Cloud Service.
 
 ## Compatibility matrix
 
-This section lists the compatibility matrix for the software applications supported by [!DNL XML Documentation] for AEMaaCS March 2022 release. 
+This section lists the compatibility matrix for the software applications supported by [!DNL AEM Guides] as a Cloud Service March 2022 release. 
 
 ### FrameMaker and FrameMaker Publishing Server
 
@@ -37,7 +37,7 @@ This section lists the compatibility matrix for the software applications suppor
 
 ### New Baseline dashboard
 
-[!DNL XML Documentation] for AEMaaCS March release provides the Baseline feature integrated inside the Web Editor. You can now create baselines from the Web Editor and use them to publish or translate topics of different versions.
+[!DNL AEM Guides] as a Cloud Service March release provides the Baseline feature integrated inside the Web Editor. You can now create baselines from the Web Editor and use them to publish or translate topics of different versions.
 
 Note: For upgraded system, please update the latest **ui_config.json** for Folder Profile.
 
@@ -67,7 +67,7 @@ unsaved changes are opened for editing, you are prompted to save your files or c
 
 ### Publishing enhancements
 
-The publishing process has been further improved with the March release of [!DNL XML Documentation] for AEMaaCS:
+The publishing process has been further improved with the March release of [!DNL AEM Guides] as a Cloud Service:
 
 * Baselines have been honored for the metadata of AEM site output. You can also process the properties of a baseline version as metadata. If no baseline is defined, then the properties of the latest version are processed as metadata.
 
@@ -87,7 +87,7 @@ The bugs fixed in various areas are listed below:
 
 ## Known issues
 
-Adobe has identified the following known issue in the [!DNL XML Documentation] for AEMaaCS March release.
+Adobe has identified the following known issue in the [!DNL AEM Guides] as a Cloud Service March release.
 
 * Removing labels on direct references also removes the labels from indirect references.
 

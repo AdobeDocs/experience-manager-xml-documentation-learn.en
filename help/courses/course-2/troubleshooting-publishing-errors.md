@@ -1,6 +1,6 @@
 ---
 title: Troubleshooting Publishing Errors
-description: Troubleshooting Publishing Errors in [!DNL XML Documentation] for Adobe Experience Manager
+description: Troubleshooting Publishing Errors in [!DNL Adobe Experience Manager Guides]
 exl-id: b37ea3e7-59cf-4fc5-8fae-e1fadd26f8d8
 ---
 # Troubleshooting Publishing Errors
@@ -31,7 +31,7 @@ Errors may be introduced in source content. For example:
 
 * Errors in the values for an attribute (e.g. a string rather than a number)
 
-* Incorrect setup of components used by [!DNL XML Documentation]
+* Incorrect setup of components used by [!DNL AEM Guides]
 
 ## Impact of errors
 
@@ -61,7 +61,7 @@ The error log displays each error type in a unique color.
 
 ## Resolving errors
 
-Depending on the type of error the resolution may be simple or complex. It may be completed by an author in XML Editor, or may require an administrator to work with [!DNL XML Documentation]. Specific corrections depend on the error, the impact, and your organizational workflows.
+Depending on the type of error the resolution may be simple or complex. It may be completed by an author in XML Editor, or may require an administrator to work with [!DNL AEM Guides]. Specific corrections depend on the error, the impact, and your organizational workflows.
 
 * Incorrectly named file path reference
 
@@ -87,6 +87,6 @@ Depending on the type of error the resolution may be simple or complex. It may b
 
         Authors can update the attribute to a correct value or administrators can update the system to support new values.
 
-* Incorrect setup of components used by [!DNL XML Documentation]
+* Incorrect setup of components used by [!DNL AEM Guides]
 
         Administrators can update the installation of the system, its components, or permissions.

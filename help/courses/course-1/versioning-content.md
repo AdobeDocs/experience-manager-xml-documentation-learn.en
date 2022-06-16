@@ -1,6 +1,6 @@
 ---
-title: Versioning content in [!DNL XML Documentation]
-description: Versioning content in [!DNL XML Documentation] for Adobe Experience Manager
+title: Versioning content in [!DNL AEM Guides]
+description: Versioning content in [!DNL Adobe Experience Manager Guides]
 exl-id: 766af002-d17b-4d27-b4d1-baaacc4579ca
 ---
 # Versioning Content

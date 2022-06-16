@@ -1,13 +1,13 @@
 ---
-user-guide-title: XML Documentation for Adobe Experience Manager Videos
-user-guide-description: A collection of videos for XML Documentation for Adobe Experience Manager.
-breadcrumb-title: XML Documentation Videos
+user-guide-title: Adobe Experience Manager Guides Videos
+user-guide-description: A collection of videos for Adobe Experience Manager Guides.
+breadcrumb-title: AEM Guides Videos
 ---
   
-# [!DNL XML Documentation] for Experience Manager {#videos}
+# [!DNL Adobe Experience Manager Guides] {#videos}
 
-+ [[!DNL XML Documentation] for AEM](overview.md)
-+ Getting started with [!DNL XML Documentation] {#getting-started}
++ [[!DNL AEM Guides] for AEM](overview.md)
++ Getting started with [!DNL AEM Guides] {#getting-started}
   + [Course overview](./course-1/overview.md)
   + [Understand the AEM user interface](./course-1/understanding-the-aem-user-interface.md)
   + [Create and structure content](./course-1/creating-and-structuring-content.md)
@@ -18,7 +18,7 @@ breadcrumb-title: XML Documentation Videos
   + [Create a map](./course-1/creating-a-map.md)
   + [Publish default output](./course-1/publishing-default-output.md)
   + [Recap](./course-1/recap.md)
-+ Output Generation with [!DNL XML Documentation] {#output-generation}
++ Output Generation with [!DNL AEM Guides] {#output-generation}
   + [Overview](./course-2/overview.md)
   + [Understanding the Map Dashboard](./course-2/introduction-to-the-map-dashboard.md)
   + [Working with Reports](./course-2/working-with-reports.md)
@@ -28,7 +28,7 @@ breadcrumb-title: XML Documentation Videos
   + [Troubleshooting publishing errors](./course-2/troubleshooting-publishing-errors.md)
   + [Bulk publishing](./course-2/bulk-publishing.md)
   + [Recap](./course-2/recap.md)
-+ Authoring using [!DNL XML Documentation] Editor {#advanced-user-guide}
++ Authoring using [!DNL AEM Guides] Editor {#advanced-user-guide}
   + [Introduction/Overview](./course-3/overview.md)
   + [User Preferences, Editor Settings, and Editor Toolbars](./course-3/user-settings-preferences-toolbars.md)
   + [Folder Profiles](./course-3/folder-profiles.md)

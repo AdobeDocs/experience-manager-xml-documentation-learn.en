@@ -7,14 +7,14 @@ exl-id: c735ba24-a803-454b-8723-57dacf90061b
 
 ## Upgrade to the April release
 
-Upgrade your current XML Documentation for Adobe Experience Manager as a Cloud Service (later referred as *XML Documentation for AEMaaCS*) setup by performing the following steps:
+Upgrade your current [!DNL Adobe Experience Manager Guides] as a Cloud Service (later referred as *[!DNL AEM Guides] as a Cloud Service*) setup by performing the following steps:
 1. Check out the Cloud Services' Git code and switch to the branch configured in the Cloud Services pipeline corresponding to the environment you want to upgrade.
 2. Update `<dox.version>` property in `/dox/dox.installer/pom.xml` file of your Cloud Services Git code to 2022.4.133.
-3. Commit the changes and run the Cloud Services pipeline to upgrade to the April release of XML Documentation for AEMaaCS.
+3. Commit the changes and run the Cloud Services pipeline to upgrade to the April release of [!DNL AEM Guides] as a Cloud Service.
 
 ## Compatibility matrix
 
-This section lists the compatibility matrix for the software applications supported by XML Documentation for AEMaaCS April 2022 release. 
+This section lists the compatibility matrix for the software applications supported by [!DNL AEM Guides] as a Cloud Service April 2022 release. 
 
 ### FrameMaker and FrameMaker Publishing Server
 
@@ -92,7 +92,7 @@ The bugs fixed in various areas are listed below:
 
 ## Known issues
 
-Adobe has identified the following known issue in the XML Documentation for AEMaaCS April release.
+Adobe has identified the following known issue in the [!DNL AEM Guides] as a Cloud Service April release.
 
 * The Web Editor doesn't report an error when two or more baselines are created with the same name but have space or case differences. For example, "adobe" and "Adobe " or "Adobe".
 * Oxygen connector hangs intermittently while performing frequent login or logout or switching between different authentication types.

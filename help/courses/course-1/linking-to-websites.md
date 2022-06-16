@@ -1,6 +1,6 @@
 ---
-title: Linking to websites in [!DNL XML Documentation]
-description: Linking to websites in [!DNL XML Documentation] for Adobe Experience Manager
+title: Linking to websites in [!DNL AEM Guides]
+description: Linking to websites in [!DNL Adobe Experience Manager Guides]
 exl-id: 6b89f52e-ac15-4604-8bac-ab0bb5b5a978
 ---
 # Linking to Websites

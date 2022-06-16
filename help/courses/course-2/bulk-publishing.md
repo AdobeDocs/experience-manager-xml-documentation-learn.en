@@ -1,6 +1,6 @@
 ---
 title: Bulk Publishing
-description: Bulk Publishing in [!DNL XML Documentation] for Adobe Experience Manager
+description: Bulk Publishing in [!DNL Adobe Experience Manager Guides]
 exl-id: b277e846-ef71-47ec-a66c-ac9d392d53e0
 ---
 # Bulk Publishing
@@ -63,7 +63,7 @@ publish jobs. It shows a dynamic list of maps and their current status. You can 
 
 1. In Navigation view, click the **Tools** icon.
 
-2. Click **[!DNL XML Documentation]**.
+2. Click **[!DNL Guides]**.
 
 3. Select the **Publish Dashboard** tile.
 
@@ -79,7 +79,7 @@ The Bulk Publish Dashboard allows you to work with Bulk Activation Collections a
 
 1. In Navigation view, click the **Tools** icon.
 
-2. Click **[!DNL XML Documentation]**.
+2. Click **[!DNL Guides]**.
 
 3. Select the **Bulk Publish Dashboard** tile.
 

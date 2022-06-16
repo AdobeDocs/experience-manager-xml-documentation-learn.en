@@ -19,7 +19,7 @@ Configurations are managed through the Folder Profiles icon.
 
     ![Tools Icon](images/reuse/tools-icon.png)
 
-2. Select **XML Documentation** on the left panel.
+2. Select **Guides** on the left panel.
 
 3. Click the [!UICONTROL **Folder Profiles**] tile.
 
@@ -56,7 +56,7 @@ In addition to the default Global Profile, you can create your own custom profil
 
     ![Tools Icon](images/reuse/tools-icon.png)
 
-2. Select **XML Documentation** on the left panel.
+2. Select **Guides** on the left panel.
 
 3. Click the [!UICONTROL **Folder Profiles**] tile.
 

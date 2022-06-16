@@ -1,6 +1,6 @@
-# XML Documentation for Adobe Experience Manager (or AEM DoX)
+# Adobe Experience Manager Guides
 
-This folder contains all the XML Documentation Guides.
+This folder contains all the AEM Guides Guides.
 
 Your contributions to the documentation are welcome. Please see the following resources:
 

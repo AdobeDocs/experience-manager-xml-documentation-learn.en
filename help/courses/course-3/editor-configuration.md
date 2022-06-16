@@ -1,5 +1,5 @@
 ---
-title: XML Editor Configuration
+title: AEM Guides Editor Configuration
 description: Configuring the editor for AEM Guides
 exl-id: 437d9598-4afc-431f-81bd-6762e22656b7
 ---
@@ -19,7 +19,7 @@ You can always download the default UI configuration to your local system, make 
 
     ![Tools Icon](images/reuse/tools-icon.png)
 
-2. Select **XML Documentation** on the left panel.
+2. Select **Guides** on the left panel.
 
 3. Click the [!UICONTROL **Folder Profiles**] tile.
 
@@ -33,7 +33,7 @@ You can always download the default UI configuration to your local system, make 
 
     ![Download Default](images/lesson-4/download-default.png)
 
-You can now open and modify the content in a text editor. The _XML Documentation for AEM Installation and Configuration_ Guide contains samples of how to remove, customize, or add functions to the UI configuration.
+You can now open and modify the content in a text editor. The _AEM Guides Installation and Configuration_ Guide contains samples of how to remove, customize, or add functions to the UI configuration.
 
 ## Upload the modified XML Editor UI Configuration
 
@@ -61,7 +61,7 @@ As with the UI configuration, you can download the CSS template layout. You can 
 
     ![Tools Icon](images/reuse/tools-icon.png)
 
-2. Select **XML Documentation** on the left panel.
+2. Select **Guides** on the left panel.
 
 3. Click the [!UICONTROL **Folder Profiles**] tile.
 
@@ -102,7 +102,7 @@ Snippets are reusable pieces of content that can be specific to a product or gro
 
     ![Tools Icon](images/reuse/tools-icon.png)
 
-2. Select **XML Documentation** on the left panel.
+2. Select **Guides** on the left panel.
 
 3. Click the [!UICONTROL **Folder Profiles**] tile.
 
@@ -132,7 +132,7 @@ By default, authors are allowed to create labels of their choice, and associate 
 
     ![Tools Icon](images/reuse/tools-icon.png)
 
-2. Select **XML Documentation** on the left panel.
+2. Select **Guides** on the left panel.
 
 3. Click the [!UICONTROL **Folder Profiles**] tile.
  

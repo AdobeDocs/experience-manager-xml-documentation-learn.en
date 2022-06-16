@@ -1,3 +1,3 @@
-# XML Documentation for Adobe Experience Manager (or AEM DoX)
+# Adobe Experience Manager Guides
 
-This is the repo to store the videos and markdown files for the "XML Documentation" courses.
+This is the repo to store the videos and markdown files for the "AEM Guides" courses.

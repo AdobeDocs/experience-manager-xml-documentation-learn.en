@@ -1,6 +1,6 @@
 ---
-title: Create a map in [!DNL XML Documentation]
-description: Learn how to create a map in [!DNL XML Documentation] for Experience Manager
+title: Create a map in [!DNL AEM Guides]
+description: Learn how to create a map in [!DNL Adobe Experience Manager Guides]
 exl-id: e38a7fd5-2a29-4248-8e8f-e6a87e1eae9c
 ---
 # Create a Map

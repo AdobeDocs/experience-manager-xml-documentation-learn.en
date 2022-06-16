@@ -1,6 +1,6 @@
 ---
 title: Publishing with conditions
-description: Publishing with conditions with XML Documentation for Adobe Experience Manager
+description: Publishing with conditions with Adobe Experience Manager Guides
 exl-id: ea94824a-884b-447f-9562-e6c629b8133b
 ---
 # Publishing with conditions
