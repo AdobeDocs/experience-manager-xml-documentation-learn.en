@@ -1,9 +1,9 @@
 ---
-title: Release Notes for [!DNL XML Documentation], March 2022 release
-description: March release of [!DNL XML Documentation] for Adobe Experience Manager as a Cloud Service
+title: Release Notes for [!DNL AEM Guides], March 2022 release
+description: March release of [!DNL Adobe Experience Manager Guides] as a Cloud Service
 exl-id: 885edbb5-dfe4-4bdc-bb66-0df64addb094
 ---
-# March release of [!DNL XML Documentation] for Adobe Experience Manager as a Cloud Service 
+# March release of [!DNL Adobe Experience Manager Guides] as a Cloud Service 
 
 ## Upgrade to the March release
 
@@ -26,7 +26,7 @@ This section lists the compatibility matrix for the software applications suppor
 
 ### Oxygen Connector
 
-| [!DNL XML Documentation] Cloud Release | Oxygen Connector Windows | Oxygen Connector Mac | 
+| [!DNL AEM Guides] Cloud Release | Oxygen Connector Windows | Oxygen Connector Mac | 
 | --- | --- | --- |
 | 2022.3.0 | 2.4.0 | 2.4.0 | 
 |  |  |  |  

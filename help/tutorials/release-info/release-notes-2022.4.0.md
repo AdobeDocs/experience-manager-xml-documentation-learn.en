@@ -1,9 +1,9 @@
 ---
-title: Release Notes | XML Documentation for Adobe Experience Manager as a Cloud Service, April 2022 release
-description: April release of XML Documentation for Adobe Experience Manager as a Cloud Service
+title: Release Notes | Adobe Experience Manager Guides as a Cloud Service, April 2022 release
+description: April release of Adobe Experience Manager Guides as a Cloud Service
 exl-id: c735ba24-a803-454b-8723-57dacf90061b
 ---
-# April release of XML Documentation for Adobe Experience Manager as a Cloud Service 
+# April release of Adobe Experience Manager Guides as a Cloud Service 
 
 ## Upgrade to the April release
 
@@ -26,7 +26,7 @@ This section lists the compatibility matrix for the software applications suppor
 
 ### Oxygen Connector
 
-| XML Documentation Cloud Release | Oxygen Connector Windows | Oxygen Connector Mac | 
+| AEM Guides Cloud Release | Oxygen Connector Windows | Oxygen Connector Mac | 
 | --- | --- | --- |
 | 2022.4.0 | 2.5.6 | 2.5.6 | 
 |  |  |  |  
