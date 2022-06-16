@@ -9,6 +9,10 @@ Adobe Experience Manager Guides (referred to as [!DNL AEM Guides] solution later
 
 Check out this space for video based courses for [!DNL Adobe Experience Manager Guides]. 
 
+>[!NOTE]
+> 
+> Adobe Experience Manager Guides was formerly branded as “XML Documentation for Adobe Experience Manager”. Please note certain references within the documentation may still refer to prior branding but are still applicable to the current offering.
+
 ## What's New
 
 * **[[!DNL AEM Guides] Authoring Course](course-3/overview.md)**

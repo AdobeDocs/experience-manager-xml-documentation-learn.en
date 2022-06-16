@@ -11,6 +11,10 @@ exl-id: 06dd1b77-1a98-430f-8322-475d4fa4947b
 
 With [!DNL AEM Guides] solution, enterprises can deliver seamless and personalized experiences to end users and ensure consistency and uniformity in pre- and post-sales content. Complete control over content integrity can be achieved easily. What's more, localization time and costs also reduce significantly.
 
+>[!NOTE]
+> 
+> Adobe Experience Manager Guides was formerly branded as “XML Documentation for Adobe Experience Manager”. Please note certain references within the documentation may still refer to prior branding but are still applicable to the current offering.
+
 ## What's New
 
 * **[[!DNL AEM Guides] Getting Started Course](../courses/course-1/overview.md)**
