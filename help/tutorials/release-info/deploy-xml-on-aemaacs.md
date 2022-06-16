@@ -3,9 +3,9 @@ title: How to add [!DNL AEM Guides] to your [!DNL AEM as a Cloud Service] enviro
 description: Learn how to add [!DNL AEM Guides] to your [!DNL AEM as a Cloud Service] environment
 exl-id: a1e020c2-360c-4d71-b5fd-8179d9ceacda
 ---
-# [!DNL AEM Guides] for [!DNL AEM as a Cloud Service] deployment
+# [!DNL AEM Guides] as a Cloud Service deployment
 
-Learn how to add [!DNL AEM Guides] to your [!DNL AEM as a Cloud Service] environment.
+Learn how to add [!DNL Guides] to your [!DNL AEM as a Cloud Service] environment.
 
 ## Manual deployment via Cloud Manager git pipeline
 
@@ -17,7 +17,7 @@ If you purchased [!DNL AEM Guides] as a Cloud Service before March 29, 2022, fol
 
 ## Deployment Via Cloud Manager
 
-If you are a customer who purchased [!DNL AEM Guides] as a Cloud Service on or after 03/29/2022, follow these instructions to add [!DNL AEM Guides] to your [!DNL AEM as a Cloud Service] environment:
+If you are a customer who purchased [!DNL AEM Guides] as a Cloud Service on or after 03/29/2022, follow these instructions to add [!DNL Guides] to your [!DNL AEM as a Cloud Service] environment:
 
 1. Login to [!UICONTROL Cloud Manager].
 
