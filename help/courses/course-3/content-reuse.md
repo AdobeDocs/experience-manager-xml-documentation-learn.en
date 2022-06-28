@@ -1,7 +1,6 @@
 ---
 title: Content Reuse
 description: Recurring use of features in AEM Guides
-exl-id: 453c5a09-0bcf-4760-87fc-df3ea4a3a30a
 ---
 # Content Reuse
 

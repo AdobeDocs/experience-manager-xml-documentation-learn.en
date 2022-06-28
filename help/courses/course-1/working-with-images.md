@@ -1,7 +1,6 @@
 ---
 title: Working with images in AEM Guides
 description: Working with images in Adobe Experience Manager Guides
-exl-id: 8b920a9a-bedb-434c-b6fb-3569ce4b7a81
 ---
 # Working with Images
 

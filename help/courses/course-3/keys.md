@@ -1,7 +1,6 @@
 ---
 title: Keys
 description: Keys allow you to include variable information to when working with DITA in AEM Guides
-exl-id: cb64e094-fe6d-4a5e-8f0e-25ae58aaa2c6
 ---
 # Keys
 

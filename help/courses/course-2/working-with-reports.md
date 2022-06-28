@@ -1,7 +1,6 @@
 ---
 title: Working with Reports
 description: Working with Reports in [!DNL Adobe Experience Manager Guides]
-exl-id: 755506a6-c416-4a8c-8359-8db7e63a90a4
 ---
 # Working with Reports
 

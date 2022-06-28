@@ -1,7 +1,6 @@
 ---
 title: User Preferences, Editor Settings and Editor Toolbars
 description: Changing user preferences and editor settings in AEM Guides
-exl-id: 8cb099e4-d985-4eeb-b1a5-0e372b04d218
 ---
 # User Preferences, Editor Settings, and Editor Toolbars
 

@@ -1,7 +1,6 @@
 ---
 title: Understanding the AEM user interface in [!DNL AEM Guides]
 description:  Understanding the AEM user interface in [!DNL Adobe Experience Manager Guides]
-exl-id: 955a05ed-92d3-480e-9c6b-a0ff362cc464
 ---
 # Understanding the AEM User Interface
 

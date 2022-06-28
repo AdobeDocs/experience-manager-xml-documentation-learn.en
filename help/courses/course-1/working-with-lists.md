@@ -1,7 +1,6 @@
 ---
 title: Working with lists in [!DNL AEM Guides]
 description: Working with lists in [!DNL Adobe Experience Manager Guides]
-exl-id: 2fde90f1-cb78-4953-ae2e-1fdc3c7798a7
 ---
 # Working with Lists
 

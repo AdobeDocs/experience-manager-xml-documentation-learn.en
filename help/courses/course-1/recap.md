@@ -1,7 +1,6 @@
 ---
 title: Recap of Getting started with [!DNL AEM Guides]
 description: Recap of Getting started with [!DNL Adobe Experience Manager Guides]
-exl-id: a1f7cee3-2657-4744-95c4-09d3eadb8492
 ---
 # Recap
 

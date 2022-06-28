@@ -1,7 +1,6 @@
 ---
 title: Creating and Publishing With Baselines
 description: Creating and Publishing With Baselines in [!DNL Adobe Experience Manager Guides]
-exl-id: 3c229c30-f2e0-4fb0-b60c-7bae60ef1a5b
 ---
 # Creating and Publishing With Baselines
 

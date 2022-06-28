@@ -1,7 +1,6 @@
 ---
 title: Spell check and find/replace
 description: Using spell check and find/replace in AEM Guides
-exl-id: 5f39618d-a919-4d3c-a4de-2896f2d1bf20
 ---
 # Spell Check and Find/Replace
 

@@ -2,7 +2,6 @@
 title: Create and use conditions
 description: Learn how to create conditions, then setup conditional content generation in [!DNL AEM Guides]
 role: User
-exl-id: a86007e3-48d1-458b-84a7-b683e113e5b2
 ---
 # Create and use conditions and generate conditional output
 

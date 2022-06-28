@@ -1,7 +1,6 @@
 ---
 title: Maps and bookmaps
 description: Creating and editing maps and bookmaps in AEM Guides
-exl-id: 9c717e4b-017b-4f2b-b93e-f2c0e7525c55
 ---
 # Maps and Bookmaps
 

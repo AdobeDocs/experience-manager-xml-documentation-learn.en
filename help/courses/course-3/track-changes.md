@@ -1,7 +1,6 @@
 ---
 title: Track changes
 description: Tracking changes in AEM Guides
-exl-id: 57779920-b3b4-44be-a1fb-89ea7c89eef7
 ---
 # Track Changes
 

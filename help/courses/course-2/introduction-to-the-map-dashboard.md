@@ -1,7 +1,6 @@
 ---
 title: Introduction to the Map Dashboard
 description: Introduction to the Map Dashboard
-exl-id: c2efa073-15e7-42a0-aaa8-04859b0fdf62
 ---
 # Introduction to the Map Dashboard
 
