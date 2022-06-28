@@ -1,7 +1,6 @@
 ---
 title: Panels
 description: Using Panels in AEM Guides
-exl-id: 24ecfc93-3540-4efa-ae85-afb346454b7f
 ---
 # Panels
 

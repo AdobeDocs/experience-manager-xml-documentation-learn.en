@@ -1,7 +1,6 @@
 ---
 title: Overview of Getting started with [!DNL AEM Guides] course
 description: Getting started with [!DNL Adobe Experience Manager Guides]
-exl-id: 6c53602f-4971-407e-9fd0-23c3a77e0118
 ---
 # Course overview
 

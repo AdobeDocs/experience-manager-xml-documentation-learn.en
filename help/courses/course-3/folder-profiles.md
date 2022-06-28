@@ -1,7 +1,6 @@
 ---
 title: Folder Profiles
 description: Creations and Use of Folder Profiles for AEM Guides
-exl-id: 5a0daa68-51ae-42d0-8320-6e8bdb1fe545
 ---
 # Folder Profiles
 

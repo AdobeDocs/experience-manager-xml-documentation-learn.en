@@ -1,7 +1,6 @@
 ---
 title: Bulk Publishing
 description: Bulk Publishing in [!DNL Adobe Experience Manager Guides]
-exl-id: b277e846-ef71-47ec-a66c-ac9d392d53e0
 ---
 # Bulk Publishing
 

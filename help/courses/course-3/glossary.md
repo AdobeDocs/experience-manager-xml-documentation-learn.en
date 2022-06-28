@@ -1,7 +1,6 @@
 ---
 title: Glossary
 description: Using the Glossary panel in AEM Guides
-exl-id: 509880b1-852f-44f0-b4a9-09fee8bcb954
 ---
 # Glossary
 

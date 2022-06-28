@@ -1,7 +1,6 @@
 ---
 title: Creating content in [!DNL AEM Guides]
 description: Creating content in [!DNL Adobe Experience Manager Guides]
-exl-id: f7cfc5c8-414f-4480-a9c9-b9920975a55d
 ---
 # Creating and Structuring Content
 

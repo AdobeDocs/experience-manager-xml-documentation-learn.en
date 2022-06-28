@@ -1,7 +1,6 @@
 ---
 title: Publishing default output in AEM Guides
 description: Publishing default output in [!DNL Adobe Experience Manager Guides]
-exl-id: 97a259dd-4266-4a7b-8677-3fa261714687
 ---
 # Publishing Default Output
 

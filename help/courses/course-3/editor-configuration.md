@@ -1,7 +1,6 @@
 ---
 title: AEM Guides Editor Configuration
 description: Configuring the editor for AEM Guides
-exl-id: 437d9598-4afc-431f-81bd-6762e22656b7
 ---
 # XML Editor Configuration
 

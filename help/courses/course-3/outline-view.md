@@ -1,7 +1,6 @@
 ---
 title: Outline View
 description: Using Outline View in AEM Guides
-exl-id: 300f550f-dc79-4971-b8ba-43fe8499ea02
 ---
 # Outline View
 

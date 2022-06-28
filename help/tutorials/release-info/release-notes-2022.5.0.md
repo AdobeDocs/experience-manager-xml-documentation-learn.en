@@ -1,7 +1,6 @@
 ---
 title: Release Notes | Adobe Experience Manager Guides as a Cloud Service, May 2022 release
 description: Latest release of Adobe Experience Manager Guides as a Cloud Service
-exl-id: 7928a300-5ec9-492c-b9be-02b6f87638c6
 ---
 # Latest release of Adobe Experience Manager Guides as a Cloud Service 
 
